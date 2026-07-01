@@ -1,0 +1,22 @@
+{
+  "exported_at": "2026-07-01T20:16:17.389759200+02:00",
+  "plugin_version": "0.6.0",
+  "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
+  "reason": "item_container_changed",
+  "kind": "inventory",
+  "item_count": 2,
+  "items": [
+    {
+      "slot": 0,
+      "id": 12012,
+      "quantity": 1,
+      "name": "Golden nugget"
+    },
+    {
+      "slot": 1,
+      "id": 12019,
+      "quantity": 1,
+      "name": "Coal bag"
+    }
+  ]
+}

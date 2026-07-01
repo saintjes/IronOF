@@ -1,0 +1,70 @@
+{
+  "exported_at": "2026-07-01T20:16:17.389759200+02:00",
+  "plugin_version": "0.6.0",
+  "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
+  "reason": "item_container_changed",
+  "kind": "equipment",
+  "item_count": 10,
+  "items": [
+    {
+      "slot": 0,
+      "id": 25549,
+      "quantity": 1,
+      "name": "Golden prospector helmet"
+    },
+    {
+      "slot": 1,
+      "id": 11852,
+      "quantity": 1,
+      "name": "Graceful cape"
+    },
+    {
+      "slot": 2,
+      "id": 1731,
+      "quantity": 1,
+      "name": "Amulet of power"
+    },
+    {
+      "slot": 3,
+      "id": 1275,
+      "quantity": 1,
+      "name": "Rune pickaxe"
+    },
+    {
+      "slot": 4,
+      "id": 25551,
+      "quantity": 1,
+      "name": "Golden prospector jacket"
+    },
+    {
+      "slot": 5,
+      "id": 29775,
+      "quantity": 1,
+      "name": "Imcando hammer (off-hand)"
+    },
+    {
+      "slot": 7,
+      "id": 25553,
+      "quantity": 1,
+      "name": "Golden prospector legs"
+    },
+    {
+      "slot": 9,
+      "id": 11858,
+      "quantity": 1,
+      "name": "Graceful gloves"
+    },
+    {
+      "slot": 10,
+      "id": 25555,
+      "quantity": 1,
+      "name": "Golden prospector boots"
+    },
+    {
+      "slot": 12,
+      "id": 25539,
+      "quantity": 1,
+      "name": "Celestial ring (uncharged)"
+    }
+  ]
+}

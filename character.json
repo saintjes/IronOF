@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:46:06.306844800+02:00",
+  "exported_at": "2026-07-01T22:48:06.326703200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -27,7 +27,7 @@
     },
     "Hitpoints": {
       "real_level": 78,
-      "boosted_level": 59,
+      "boosted_level": 61,
       "experience": 1660907
     },
     "Ranged": {
@@ -43,7 +43,7 @@
     "Magic": {
       "real_level": 68,
       "boosted_level": 68,
-      "experience": 631692
+      "experience": 631727
     },
     "Cooking": {
       "real_level": 71,
@@ -83,7 +83,7 @@
     "Mining": {
       "real_level": 85,
       "boosted_level": 85,
-      "experience": 3372218
+      "experience": 3372358
     },
     "Herblore": {
       "real_level": 21,

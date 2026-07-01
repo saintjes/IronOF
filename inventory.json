@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:53:42.991203400+02:00",
+  "exported_at": "2026-07-01T22:55:51.403850200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 28,
+  "item_count": 24,
   "items": [
     {
       "slot": 0,
@@ -27,7 +27,7 @@
     {
       "slot": 3,
       "id": 995,
-      "quantity": 61111,
+      "quantity": 62806,
       "name": "Coins"
     },
     {
@@ -73,106 +73,82 @@
       "name": "Tuna"
     },
     {
-      "slot": 11,
-      "id": 444,
-      "quantity": 1,
-      "name": "Gold ore"
-    },
-    {
-      "slot": 12,
-      "id": 444,
-      "quantity": 1,
-      "name": "Gold ore"
-    },
-    {
-      "slot": 13,
-      "id": 444,
-      "quantity": 1,
-      "name": "Gold ore"
-    },
-    {
-      "slot": 14,
-      "id": 444,
-      "quantity": 1,
-      "name": "Gold ore"
-    },
-    {
       "slot": 15,
-      "id": 444,
+      "id": 2357,
       "quantity": 1,
-      "name": "Gold ore"
+      "name": "Gold bar"
     },
     {
       "slot": 16,
-      "id": 444,
+      "id": 2357,
       "quantity": 1,
-      "name": "Gold ore"
+      "name": "Gold bar"
     },
     {
       "slot": 17,
-      "id": 444,
+      "id": 2357,
       "quantity": 1,
-      "name": "Gold ore"
+      "name": "Gold bar"
     },
     {
       "slot": 18,
-      "id": 444,
+      "id": 2357,
       "quantity": 1,
-      "name": "Gold ore"
+      "name": "Gold bar"
     },
     {
       "slot": 19,
-      "id": 444,
+      "id": 2357,
       "quantity": 1,
-      "name": "Gold ore"
+      "name": "Gold bar"
     },
     {
       "slot": 20,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 21,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 22,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 23,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 24,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 25,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 26,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     },
     {
       "slot": 27,
-      "id": 440,
+      "id": 2357,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold bar"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T23:15:57.448289100+02:00",
+  "exported_at": "2026-07-01T23:18:25.068064100+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -78,7 +78,7 @@
     "Smithing": {
       "real_level": 57,
       "boosted_level": 57,
-      "experience": 209413
+      "experience": 211033
     },
     "Mining": {
       "real_level": 85,

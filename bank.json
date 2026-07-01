@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T23:44:28.875159200+02:00",
+  "exported_at": "2026-07-01T23:46:15.094000600+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "bank",
-  "item_count": 412,
+  "item_count": 413,
   "items": [
     {
       "slot": 0,
@@ -729,7 +729,7 @@
     {
       "slot": 120,
       "id": 2359,
-      "quantity": 992,
+      "quantity": 965,
       "name": "Mithril bar"
     },
     {
@@ -2477,6 +2477,12 @@
       "id": 4310,
       "quantity": 1,
       "name": "Ham boots"
+    },
+    {
+      "slot": 412,
+      "id": 4822,
+      "quantity": 1,
+      "name": "Mithril nails"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:27:38.571254400+02:00",
+  "exported_at": "2026-07-01T22:31:10.989646900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 16,
+  "item_count": 18,
   "items": [
     {
       "slot": 0,
@@ -79,6 +79,12 @@
       "name": "Knife"
     },
     {
+      "slot": 12,
+      "id": 201,
+      "quantity": 1,
+      "name": "Grimy marrentill"
+    },
+    {
       "slot": 13,
       "id": 2138,
       "quantity": 1,
@@ -101,6 +107,12 @@
       "id": 453,
       "quantity": 1,
       "name": "Coal"
+    },
+    {
+      "slot": 17,
+      "id": 4310,
+      "quantity": 1,
+      "name": "Ham boots"
     }
   ]
 }

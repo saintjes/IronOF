@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:56:06.429767700+02:00",
+  "exported_at": "2026-07-01T22:58:06.412731800+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -27,7 +27,7 @@
     },
     "Hitpoints": {
       "real_level": 78,
-      "boosted_level": 69,
+      "boosted_level": 71,
       "experience": 1660907
     },
     "Ranged": {
@@ -43,7 +43,7 @@
     "Magic": {
       "real_level": 68,
       "boosted_level": 68,
-      "experience": 631727
+      "experience": 633227
     },
     "Cooking": {
       "real_level": 71,
@@ -68,22 +68,22 @@
     "Firemaking": {
       "real_level": 68,
       "boosted_level": 68,
-      "experience": 640191
+      "experience": 641691
     },
     "Crafting": {
       "real_level": 70,
       "boosted_level": 70,
-      "experience": 739565
+      "experience": 742065
     },
     "Smithing": {
       "real_level": 56,
       "boosted_level": 56,
-      "experience": 198813
+      "experience": 201313
     },
     "Mining": {
       "real_level": 85,
       "boosted_level": 85,
-      "experience": 3372883
+      "experience": 3375383
     },
     "Herblore": {
       "real_level": 21,
@@ -96,9 +96,9 @@
       "experience": 105140
     },
     "Thieving": {
-      "real_level": 19,
-      "boosted_level": 19,
-      "experience": 4190
+      "real_level": 22,
+      "boosted_level": 22,
+      "experience": 5690
     },
     "Slayer": {
       "real_level": 1,

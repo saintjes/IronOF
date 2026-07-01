@@ -1,11 +1,11 @@
 {
-  "exported_at": "2026-07-01T21:19:08.767652600+02:00",
+  "exported_at": "2026-07-01T22:57:38.230899200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
-  "reason": "game_state_changed",
+  "reason": "varbit_changed",
   "summary": {
-    "finished": 32,
-    "in_progress": 1,
+    "finished": 33,
+    "in_progress": 0,
     "not_started": 176
   },
   "quests": [
@@ -322,7 +322,7 @@
     {
       "id": 63,
       "name": "The Giant Dwarf",
-      "state": "IN_PROGRESS"
+      "state": "FINISHED"
     },
     {
       "id": 64,

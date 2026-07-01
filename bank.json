@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-02T01:47:05.159302200+02:00",
+  "exported_at": "2026-07-02T01:49:32.798877700+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -711,7 +711,7 @@
     {
       "slot": 117,
       "id": 453,
-      "quantity": 4056,
+      "quantity": 4002,
       "name": "Coal"
     },
     {
@@ -729,7 +729,7 @@
     {
       "slot": 120,
       "id": 2359,
-      "quantity": 2264,
+      "quantity": 2291,
       "name": "Mithril bar"
     },
     {

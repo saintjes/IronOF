@@ -1,8 +1,8 @@
 {
-  "exported_at": "2026-07-01T20:16:17.740445700+02:00",
+  "exported_at": "2026-07-01T21:24:05.661648500+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
-  "reason": "initial_game_tick",
+  "reason": "stat_changed",
   "account_name": "IronOF",
   "world": 344,
   "game_state": "LOGGED_IN",
@@ -13,22 +13,22 @@
     "Attack": {
       "real_level": 70,
       "boosted_level": 70,
-      "experience": 738287
+      "experience": 750462
     },
     "Defence": {
       "real_level": 60,
       "boosted_level": 60,
-      "experience": 282130
+      "experience": 282182
     },
     "Strength": {
       "real_level": 86,
       "boosted_level": 86,
-      "experience": 3600002
+      "experience": 3600474
     },
     "Hitpoints": {
       "real_level": 78,
       "boosted_level": 78,
-      "experience": 1660216
+      "experience": 1660907
     },
     "Ranged": {
       "real_level": 11,
@@ -37,13 +37,13 @@
     },
     "Prayer": {
       "real_level": 60,
-      "boosted_level": 28,
+      "boosted_level": 60,
       "experience": 280573
     },
     "Magic": {
       "real_level": 68,
       "boosted_level": 68,
-      "experience": 628961
+      "experience": 631426
     },
     "Cooking": {
       "real_level": 71,
@@ -53,7 +53,7 @@
     "Woodcutting": {
       "real_level": 64,
       "boosted_level": 64,
-      "experience": 412581
+      "experience": 412731
     },
     "Fletching": {
       "real_level": 31,
@@ -78,7 +78,7 @@
     "Smithing": {
       "real_level": 56,
       "boosted_level": 56,
-      "experience": 198776
+      "experience": 198813
     },
     "Mining": {
       "real_level": 85,
@@ -93,12 +93,12 @@
     "Agility": {
       "real_level": 50,
       "boosted_level": 50,
-      "experience": 105138
+      "experience": 105140
     },
     "Thieving": {
-      "real_level": 1,
-      "boosted_level": 1,
-      "experience": 0
+      "real_level": 14,
+      "boosted_level": 14,
+      "experience": 2175
     },
     "Slayer": {
       "real_level": 1,

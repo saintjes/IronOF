@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T20:24:43.655900+02:00",
+  "exported_at": "2026-07-01T21:16:19.397217300+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "bank",
-  "item_count": 390,
+  "item_count": 400,
   "items": [
     {
       "slot": 0,
@@ -147,7 +147,7 @@
     {
       "slot": 23,
       "id": 1731,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Amulet of power"
     },
     {
@@ -159,7 +159,7 @@
     {
       "slot": 25,
       "id": 11980,
-      "quantity": 2,
+      "quantity": 1,
       "name": "Ring of wealth (5)"
     },
     {
@@ -213,7 +213,7 @@
     {
       "slot": 34,
       "id": 1511,
-      "quantity": 9,
+      "quantity": 8,
       "name": "Logs"
     },
     {
@@ -339,31 +339,31 @@
     {
       "slot": 55,
       "id": 554,
-      "quantity": 3783,
+      "quantity": 1,
       "name": "Fire rune"
     },
     {
       "slot": 56,
       "id": 556,
-      "quantity": 3917,
+      "quantity": 1,
       "name": "Air rune"
     },
     {
       "slot": 57,
       "id": 555,
-      "quantity": 970,
+      "quantity": 1,
       "name": "Water rune"
     },
     {
       "slot": 58,
       "id": 557,
-      "quantity": 1335,
+      "quantity": 1,
       "name": "Earth rune"
     },
     {
       "slot": 59,
       "id": 563,
-      "quantity": 2654,
+      "quantity": 1,
       "name": "Law rune"
     },
     {
@@ -375,7 +375,7 @@
     {
       "slot": 61,
       "id": 562,
-      "quantity": 4674,
+      "quantity": 4608,
       "name": "Chaos rune"
     },
     {
@@ -561,7 +561,7 @@
     {
       "slot": 92,
       "id": 1607,
-      "quantity": 1170,
+      "quantity": 1167,
       "name": "Sapphire"
     },
     {
@@ -603,13 +603,13 @@
     {
       "slot": 99,
       "id": 440,
-      "quantity": 4,
+      "quantity": 1,
       "name": "Iron ore"
     },
     {
       "slot": 100,
       "id": 453,
-      "quantity": 10187,
+      "quantity": 10186,
       "name": "Coal"
     },
     {
@@ -783,7 +783,7 @@
     {
       "slot": 129,
       "id": 361,
-      "quantity": 650,
+      "quantity": 646,
       "name": "Tuna"
     },
     {
@@ -993,7 +993,7 @@
     {
       "slot": 164,
       "id": 1925,
-      "quantity": 3,
+      "quantity": 2,
       "name": "Bucket"
     },
     {
@@ -1029,7 +1029,7 @@
     {
       "slot": 170,
       "id": 590,
-      "quantity": 5,
+      "quantity": 4,
       "name": "Tinderbox"
     },
     {
@@ -1124,9 +1124,9 @@
     },
     {
       "slot": 186,
-      "id": 25644,
+      "id": 29775,
       "quantity": 1,
-      "name": "Imcando hammer"
+      "name": "Imcando hammer (off-hand)"
     },
     {
       "slot": 187,
@@ -1137,7 +1137,7 @@
     {
       "slot": 188,
       "id": 995,
-      "quantity": 1399300,
+      "quantity": 1339300,
       "name": "Coins"
     },
     {
@@ -2345,6 +2345,66 @@
       "id": 12020,
       "quantity": 1,
       "name": "Gem bag"
+    },
+    {
+      "slot": 390,
+      "id": 25551,
+      "quantity": 1,
+      "name": "Golden prospector jacket"
+    },
+    {
+      "slot": 391,
+      "id": 25553,
+      "quantity": 1,
+      "name": "Golden prospector legs"
+    },
+    {
+      "slot": 392,
+      "id": 25555,
+      "quantity": 1,
+      "name": "Golden prospector boots"
+    },
+    {
+      "slot": 393,
+      "id": 12019,
+      "quantity": 1,
+      "name": "Coal bag"
+    },
+    {
+      "slot": 394,
+      "id": 1454,
+      "quantity": 1,
+      "name": "Cosmic talisman"
+    },
+    {
+      "slot": 395,
+      "id": 1580,
+      "quantity": 1,
+      "name": "Ice gloves"
+    },
+    {
+      "slot": 396,
+      "id": 11982,
+      "quantity": 1,
+      "name": "Ring of wealth (4)"
+    },
+    {
+      "slot": 397,
+      "id": 75,
+      "quantity": 1,
+      "name": "Khazard armour"
+    },
+    {
+      "slot": 398,
+      "id": 74,
+      "quantity": 1,
+      "name": "Khazard helmet"
+    },
+    {
+      "slot": 399,
+      "id": 2325,
+      "quantity": 4,
+      "name": "Redberry pie"
     }
   ]
 }

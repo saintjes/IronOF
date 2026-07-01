@@ -1,16 +1,22 @@
 {
-  "exported_at": "2026-07-01T22:05:27.614030400+02:00",
+  "exported_at": "2026-07-01T22:07:46.818798600+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 14,
+  "item_count": 15,
   "items": [
     {
       "slot": 0,
       "id": 556,
       "quantity": 3693,
       "name": "Air rune"
+    },
+    {
+      "slot": 1,
+      "id": 22521,
+      "quantity": 5,
+      "name": "Coin pouch"
     },
     {
       "slot": 2,

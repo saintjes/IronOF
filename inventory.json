@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:37:48.848628100+02:00",
+  "exported_at": "2026-07-01T22:41:13.469912400+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 18,
+  "item_count": 26,
   "items": [
     {
       "slot": 0,
@@ -85,6 +85,12 @@
       "name": "Marrentill"
     },
     {
+      "slot": 13,
+      "id": 4302,
+      "quantity": 1,
+      "name": "Ham hood"
+    },
+    {
       "slot": 14,
       "id": 1733,
       "quantity": 1,
@@ -109,10 +115,52 @@
       "name": "Ham boots"
     },
     {
+      "slot": 18,
+      "id": 1511,
+      "quantity": 1,
+      "name": "Logs"
+    },
+    {
       "slot": 19,
       "id": 4298,
       "quantity": 1,
       "name": "Ham shirt"
+    },
+    {
+      "slot": 20,
+      "id": 688,
+      "quantity": 1,
+      "name": "Buttons"
+    },
+    {
+      "slot": 21,
+      "id": 321,
+      "quantity": 1,
+      "name": "Raw anchovies"
+    },
+    {
+      "slot": 22,
+      "id": 4308,
+      "quantity": 1,
+      "name": "Ham gloves"
+    },
+    {
+      "slot": 23,
+      "id": 1267,
+      "quantity": 1,
+      "name": "Iron pickaxe"
+    },
+    {
+      "slot": 24,
+      "id": 1353,
+      "quantity": 1,
+      "name": "Steel axe"
+    },
+    {
+      "slot": 25,
+      "id": 1625,
+      "quantity": 1,
+      "name": "Uncut opal"
     }
   ]
 }

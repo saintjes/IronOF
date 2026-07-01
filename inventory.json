@@ -1,15 +1,15 @@
 {
-  "exported_at": "2026-07-01T21:55:35.920919300+02:00",
+  "exported_at": "2026-07-01T21:57:31.738106900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 21,
+  "item_count": 17,
   "items": [
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3700,
+      "quantity": 3699,
       "name": "Air rune"
     },
     {
@@ -21,7 +21,7 @@
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2649,
+      "quantity": 2648,
       "name": "Law rune"
     },
     {
@@ -38,9 +38,15 @@
     },
     {
       "slot": 5,
-      "id": 5062,
+      "id": 5064,
       "quantity": 1,
-      "name": "Left boot"
+      "name": "Exquisite boots"
+    },
+    {
+      "slot": 6,
+      "id": 5059,
+      "quantity": 1,
+      "name": "Dwarven battleaxe"
     },
     {
       "slot": 9,
@@ -65,12 +71,6 @@
       "id": 361,
       "quantity": 1,
       "name": "Tuna"
-    },
-    {
-      "slot": 14,
-      "id": 2351,
-      "quantity": 1,
-      "name": "Iron bar"
     },
     {
       "slot": 15,
@@ -99,32 +99,8 @@
     {
       "slot": 20,
       "id": 557,
-      "quantity": 1335,
+      "quantity": 1334,
       "name": "Earth rune"
-    },
-    {
-      "slot": 23,
-      "id": 2325,
-      "quantity": 1,
-      "name": "Redberry pie"
-    },
-    {
-      "slot": 24,
-      "id": 1607,
-      "quantity": 1,
-      "name": "Sapphire"
-    },
-    {
-      "slot": 25,
-      "id": 1607,
-      "quantity": 1,
-      "name": "Sapphire"
-    },
-    {
-      "slot": 26,
-      "id": 1607,
-      "quantity": 1,
-      "name": "Sapphire"
     },
     {
       "slot": 27,

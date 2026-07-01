@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:55:32.203348100+02:00",
+  "exported_at": "2026-07-01T22:59:16.646780900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "bank",
-  "item_count": 409,
+  "item_count": 412,
   "items": [
     {
       "slot": 0,
@@ -141,13 +141,13 @@
     {
       "slot": 22,
       "id": 33101,
-      "quantity": 6,
+      "quantity": 7,
       "name": "Mooleta"
     },
     {
       "slot": 23,
       "id": 1731,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Amulet of power"
     },
     {
@@ -339,31 +339,31 @@
     {
       "slot": 55,
       "id": 554,
-      "quantity": 1,
+      "quantity": 3779,
       "name": "Fire rune"
     },
     {
       "slot": 56,
       "id": 556,
-      "quantity": 1,
+      "quantity": 3681,
       "name": "Air rune"
     },
     {
       "slot": 57,
       "id": 555,
-      "quantity": 1,
+      "quantity": 970,
       "name": "Water rune"
     },
     {
       "slot": 58,
       "id": 557,
-      "quantity": 1,
+      "quantity": 1331,
       "name": "Earth rune"
     },
     {
       "slot": 59,
       "id": 563,
-      "quantity": 1,
+      "quantity": 2642,
       "name": "Law rune"
     },
     {
@@ -621,7 +621,7 @@
     {
       "slot": 102,
       "id": 2357,
-      "quantity": 552,
+      "quantity": 565,
       "name": "Gold bar"
     },
     {
@@ -783,7 +783,7 @@
     {
       "slot": 129,
       "id": 361,
-      "quantity": 646,
+      "quantity": 649,
       "name": "Tuna"
     },
     {
@@ -1124,9 +1124,9 @@
     },
     {
       "slot": 186,
-      "id": 29775,
+      "id": 25644,
       "quantity": 1,
-      "name": "Imcando hammer (off-hand)"
+      "name": "Imcando hammer"
     },
     {
       "slot": 187,
@@ -1137,7 +1137,7 @@
     {
       "slot": 188,
       "id": 995,
-      "quantity": 1339300,
+      "quantity": 1402106,
       "name": "Coins"
     },
     {
@@ -2439,7 +2439,7 @@
     {
       "slot": 405,
       "id": 4298,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Ham shirt"
     },
     {
@@ -2459,6 +2459,24 @@
       "id": 1625,
       "quantity": 1,
       "name": "Uncut opal"
+    },
+    {
+      "slot": 409,
+      "id": 5066,
+      "quantity": 1,
+      "name": "Meeting notes"
+    },
+    {
+      "slot": 410,
+      "id": 4302,
+      "quantity": 1,
+      "name": "Ham hood"
+    },
+    {
+      "slot": 411,
+      "id": 4310,
+      "quantity": 1,
+      "name": "Ham boots"
     }
   ]
 }

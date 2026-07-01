@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:27:58.367966100+02:00",
+  "exported_at": "2026-07-01T22:29:10.391040700+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -27,7 +27,7 @@
     },
     "Hitpoints": {
       "real_level": 78,
-      "boosted_level": 70,
+      "boosted_level": 72,
       "experience": 1660907
     },
     "Ranged": {
@@ -97,8 +97,8 @@
     },
     "Thieving": {
       "real_level": 17,
-      "boosted_level": 16,
-      "experience": 3493
+      "boosted_level": 14,
+      "experience": 3505
     },
     "Slayer": {
       "real_level": 1,

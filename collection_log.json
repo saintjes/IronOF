@@ -1,0 +1,69 @@
+{
+  "exported_at": "2026-07-01T22:28:26.289431600+02:00",
+  "plugin_version": "0.6.0",
+  "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
+  "reason": "collection_log_scraped",
+  "entries_scraped": 1,
+  "note": "Open each collection log page in-game to capture it. Data accumulates across sessions.",
+  "tabs": {
+    "Bosses": {
+      "Abyssal Sire": {
+        "tab": "Bosses",
+        "obtained_count": 0,
+        "total_items": 9,
+        "items": [
+          {
+            "id": 13262,
+            "name": "Abyssal orphan",
+            "obtained": false
+          },
+          {
+            "id": 25624,
+            "name": "Unsired",
+            "obtained": false
+          },
+          {
+            "id": 7979,
+            "name": "Abyssal head",
+            "obtained": false
+          },
+          {
+            "id": 13274,
+            "name": "Bludgeon spine",
+            "obtained": false
+          },
+          {
+            "id": 13275,
+            "name": "Bludgeon claw",
+            "obtained": false
+          },
+          {
+            "id": 13276,
+            "name": "Bludgeon axon",
+            "obtained": false
+          },
+          {
+            "id": 13277,
+            "name": "Jar of miasma",
+            "obtained": false
+          },
+          {
+            "id": 13265,
+            "name": "Abyssal dagger",
+            "obtained": false
+          },
+          {
+            "id": 4151,
+            "name": "Abyssal whip",
+            "obtained": false
+          }
+        ],
+        "last_scraped": "2026-07-01T22:28:26.289431600+02:00"
+      }
+    },
+    "Raids": {},
+    "Clues": {},
+    "Minigames": {},
+    "Other": {}
+  }
+}

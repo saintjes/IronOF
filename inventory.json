@@ -1,15 +1,15 @@
 {
-  "exported_at": "2026-07-01T21:53:07.108720700+02:00",
+  "exported_at": "2026-07-01T21:55:35.920919300+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 20,
+  "item_count": 21,
   "items": [
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3701,
+      "quantity": 3700,
       "name": "Air rune"
     },
     {
@@ -21,7 +21,7 @@
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2650,
+      "quantity": 2649,
       "name": "Law rune"
     },
     {
@@ -35,6 +35,12 @@
       "id": 590,
       "quantity": 1,
       "name": "Tinderbox"
+    },
+    {
+      "slot": 5,
+      "id": 5062,
+      "quantity": 1,
+      "name": "Left boot"
     },
     {
       "slot": 9,

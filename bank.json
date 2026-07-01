@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T23:03:07.062286700+02:00",
+  "exported_at": "2026-07-01T23:06:02.902267600+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -711,7 +711,7 @@
     {
       "slot": 117,
       "id": 453,
-      "quantity": 10161,
+      "quantity": 10239,
       "name": "Coal"
     },
     {
@@ -1149,7 +1149,7 @@
     {
       "slot": 190,
       "id": 995,
-      "quantity": 1302106,
+      "quantity": 1296880,
       "name": "Coins"
     },
     {

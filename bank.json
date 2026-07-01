@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:23:54.759863200+02:00",
+  "exported_at": "2026-07-01T22:25:06.763278200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -93,7 +93,7 @@
     {
       "slot": 14,
       "id": 1201,
-      "quantity": 2,
+      "quantity": 3,
       "name": "Rune kiteshield"
     },
     {
@@ -117,7 +117,7 @@
     {
       "slot": 18,
       "id": 1093,
-      "quantity": 2,
+      "quantity": 3,
       "name": "Rune plateskirt"
     },
     {
@@ -141,7 +141,7 @@
     {
       "slot": 22,
       "id": 33101,
-      "quantity": 7,
+      "quantity": 6,
       "name": "Mooleta"
     },
     {
@@ -783,7 +783,7 @@
     {
       "slot": 129,
       "id": 361,
-      "quantity": 649,
+      "quantity": 646,
       "name": "Tuna"
     },
     {

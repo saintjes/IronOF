@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:05:32.394841600+02:00",
+  "exported_at": "2026-07-01T22:24:32.567612600+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "equipment",
-  "item_count": 9,
+  "item_count": 8,
   "items": [
     {
       "slot": 0,
@@ -32,15 +32,9 @@
     },
     {
       "slot": 5,
-      "id": 1201,
+      "id": 33101,
       "quantity": 1,
-      "name": "Rune kiteshield"
-    },
-    {
-      "slot": 7,
-      "id": 1093,
-      "quantity": 1,
-      "name": "Rune plateskirt"
+      "name": "Mooleta"
     },
     {
       "slot": 9,

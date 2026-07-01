@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:23:53.548289200+02:00",
+  "exported_at": "2026-07-01T22:25:06.751980900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 9,
+  "item_count": 11,
   "items": [
     {
       "slot": 0,
@@ -32,33 +32,45 @@
     },
     {
       "slot": 4,
-      "id": 590,
-      "quantity": 1,
-      "name": "Tinderbox"
-    },
-    {
-      "slot": 5,
-      "id": 4298,
-      "quantity": 1,
-      "name": "Ham shirt"
-    },
-    {
-      "slot": 19,
-      "id": 555,
-      "quantity": 970,
-      "name": "Water rune"
-    },
-    {
-      "slot": 20,
       "id": 557,
       "quantity": 1331,
       "name": "Earth rune"
     },
     {
-      "slot": 27,
+      "slot": 5,
+      "id": 555,
+      "quantity": 970,
+      "name": "Water rune"
+    },
+    {
+      "slot": 6,
       "id": 13660,
       "quantity": 1,
       "name": "Chronicle"
+    },
+    {
+      "slot": 7,
+      "id": 4298,
+      "quantity": 1,
+      "name": "Ham shirt"
+    },
+    {
+      "slot": 8,
+      "id": 361,
+      "quantity": 1,
+      "name": "Tuna"
+    },
+    {
+      "slot": 9,
+      "id": 361,
+      "quantity": 1,
+      "name": "Tuna"
+    },
+    {
+      "slot": 10,
+      "id": 361,
+      "quantity": 1,
+      "name": "Tuna"
     }
   ]
 }

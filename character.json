@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:21:57.110974500+02:00",
+  "exported_at": "2026-07-01T22:23:12.755773900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -27,7 +27,7 @@
     },
     "Hitpoints": {
       "real_level": 78,
-      "boosted_level": 74,
+      "boosted_level": 72,
       "experience": 1660907
     },
     "Ranged": {
@@ -43,7 +43,7 @@
     "Magic": {
       "real_level": 68,
       "boosted_level": 68,
-      "experience": 631581
+      "experience": 631622
     },
     "Cooking": {
       "real_level": 71,
@@ -98,7 +98,7 @@
     "Thieving": {
       "real_level": 17,
       "boosted_level": 17,
-      "experience": 3198
+      "experience": 3353
     },
     "Slayer": {
       "real_level": 1,

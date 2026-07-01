@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:05:30.607534100+02:00",
+  "exported_at": "2026-07-01T22:23:54.759863200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "bank",
-  "item_count": 400,
+  "item_count": 404,
   "items": [
     {
       "slot": 0,
@@ -597,7 +597,7 @@
     {
       "slot": 98,
       "id": 2351,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Iron bar"
     },
     {
@@ -609,7 +609,7 @@
     {
       "slot": 100,
       "id": 453,
-      "quantity": 10186,
+      "quantity": 10187,
       "name": "Coal"
     },
     {
@@ -783,7 +783,7 @@
     {
       "slot": 129,
       "id": 361,
-      "quantity": 646,
+      "quantity": 649,
       "name": "Tuna"
     },
     {
@@ -957,7 +957,7 @@
     {
       "slot": 158,
       "id": 1129,
-      "quantity": 5,
+      "quantity": 7,
       "name": "Leather body"
     },
     {
@@ -1029,7 +1029,7 @@
     {
       "slot": 170,
       "id": 590,
-      "quantity": 4,
+      "quantity": 5,
       "name": "Tinderbox"
     },
     {
@@ -1101,7 +1101,7 @@
     {
       "slot": 182,
       "id": 1734,
-      "quantity": 60,
+      "quantity": 71,
       "name": "Thread"
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "slot": 184,
       "id": 314,
-      "quantity": 792,
+      "quantity": 798,
       "name": "Feather"
     },
     {
@@ -1503,7 +1503,7 @@
     {
       "slot": 249,
       "id": 1267,
-      "quantity": 21,
+      "quantity": 23,
       "name": "Iron pickaxe"
     },
     {
@@ -2405,6 +2405,30 @@
       "id": 2325,
       "quantity": 4,
       "name": "Redberry pie"
+    },
+    {
+      "slot": 400,
+      "id": 1627,
+      "quantity": 2,
+      "name": "Uncut jade"
+    },
+    {
+      "slot": 401,
+      "id": 688,
+      "quantity": 1,
+      "name": "Buttons"
+    },
+    {
+      "slot": 402,
+      "id": 686,
+      "quantity": 2,
+      "name": "Rusty sword"
+    },
+    {
+      "slot": 403,
+      "id": 251,
+      "quantity": 1,
+      "name": "Marrentill"
     }
   ]
 }

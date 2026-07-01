@@ -1,27 +1,33 @@
 {
-  "exported_at": "2026-07-01T22:21:51.135198900+02:00",
+  "exported_at": "2026-07-01T22:23:53.548289200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 27,
+  "item_count": 9,
   "items": [
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3693,
+      "quantity": 3690,
       "name": "Air rune"
+    },
+    {
+      "slot": 1,
+      "id": 554,
+      "quantity": 3782,
+      "name": "Fire rune"
     },
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2646,
+      "quantity": 2645,
       "name": "Law rune"
     },
     {
       "slot": 3,
       "id": 995,
-      "quantity": 60927,
+      "quantity": 60944,
       "name": "Coins"
     },
     {
@@ -32,87 +38,9 @@
     },
     {
       "slot": 5,
-      "id": 1129,
+      "id": 4298,
       "quantity": 1,
-      "name": "Leather body"
-    },
-    {
-      "slot": 6,
-      "id": 251,
-      "quantity": 1,
-      "name": "Marrentill"
-    },
-    {
-      "slot": 7,
-      "id": 686,
-      "quantity": 1,
-      "name": "Rusty sword"
-    },
-    {
-      "slot": 8,
-      "id": 1267,
-      "quantity": 1,
-      "name": "Iron pickaxe"
-    },
-    {
-      "slot": 9,
-      "id": 361,
-      "quantity": 1,
-      "name": "Tuna"
-    },
-    {
-      "slot": 10,
-      "id": 361,
-      "quantity": 1,
-      "name": "Tuna"
-    },
-    {
-      "slot": 11,
-      "id": 361,
-      "quantity": 1,
-      "name": "Tuna"
-    },
-    {
-      "slot": 12,
-      "id": 688,
-      "quantity": 1,
-      "name": "Buttons"
-    },
-    {
-      "slot": 13,
-      "id": 1129,
-      "quantity": 1,
-      "name": "Leather body"
-    },
-    {
-      "slot": 14,
-      "id": 314,
-      "quantity": 6,
-      "name": "Feather"
-    },
-    {
-      "slot": 15,
-      "id": 2351,
-      "quantity": 1,
-      "name": "Iron bar"
-    },
-    {
-      "slot": 16,
-      "id": 2351,
-      "quantity": 1,
-      "name": "Iron bar"
-    },
-    {
-      "slot": 17,
-      "id": 1627,
-      "quantity": 1,
-      "name": "Uncut jade"
-    },
-    {
-      "slot": 18,
-      "id": 554,
-      "quantity": 3782,
-      "name": "Fire rune"
+      "name": "Ham shirt"
     },
     {
       "slot": 19,
@@ -123,44 +51,8 @@
     {
       "slot": 20,
       "id": 557,
-      "quantity": 1332,
+      "quantity": 1331,
       "name": "Earth rune"
-    },
-    {
-      "slot": 21,
-      "id": 453,
-      "quantity": 1,
-      "name": "Coal"
-    },
-    {
-      "slot": 22,
-      "id": 440,
-      "quantity": 1,
-      "name": "Iron ore"
-    },
-    {
-      "slot": 23,
-      "id": 1267,
-      "quantity": 1,
-      "name": "Iron pickaxe"
-    },
-    {
-      "slot": 24,
-      "id": 688,
-      "quantity": 1,
-      "name": "Buttons"
-    },
-    {
-      "slot": 25,
-      "id": 1627,
-      "quantity": 1,
-      "name": "Uncut jade"
-    },
-    {
-      "slot": 26,
-      "id": 1734,
-      "quantity": 2,
-      "name": "Thread"
     },
     {
       "slot": 27,

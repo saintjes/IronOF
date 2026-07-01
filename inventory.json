@@ -1,76 +1,16 @@
 {
-  "exported_at": "2026-07-02T00:22:58.563168700+02:00",
+  "exported_at": "2026-07-02T00:25:00.365445300+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 19,
+  "item_count": 9,
   "items": [
     {
       "slot": 0,
       "id": 4822,
-      "quantity": 10680,
+      "quantity": 11235,
       "name": "Mithril nails"
-    },
-    {
-      "slot": 10,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 11,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 12,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 13,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 14,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 15,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 16,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 17,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 18,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
-    },
-    {
-      "slot": 19,
-      "id": 2359,
-      "quantity": 1,
-      "name": "Mithril bar"
     },
     {
       "slot": 20,

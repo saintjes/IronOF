@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T21:56:34.696276700+02:00",
+  "exported_at": "2026-07-01T22:03:47.379713+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -88,7 +88,7 @@
     "Herblore": {
       "real_level": 21,
       "boosted_level": 21,
-      "experience": 5180
+      "experience": 5390
     },
     "Agility": {
       "real_level": 50,

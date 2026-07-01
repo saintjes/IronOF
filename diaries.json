@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T23:06:39.990063500+02:00",
+  "exported_at": "2026-07-02T00:31:47.826295300+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "varbit_changed",
@@ -344,7 +344,7 @@
       },
       "hard": {
         "complete": false,
-        "tasks_done": 0
+        "tasks_done": 1
       },
       "elite": {
         "complete": false,

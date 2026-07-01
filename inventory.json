@@ -1,33 +1,33 @@
 {
-  "exported_at": "2026-07-01T22:47:14.727976700+02:00",
+  "exported_at": "2026-07-01T22:50:10.553650200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 21,
+  "item_count": 14,
   "items": [
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3684,
+      "quantity": 3681,
       "name": "Air rune"
     },
     {
       "slot": 1,
       "id": 554,
-      "quantity": 3780,
+      "quantity": 3779,
       "name": "Fire rune"
     },
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2643,
+      "quantity": 2642,
       "name": "Law rune"
     },
     {
       "slot": 3,
       "id": 995,
-      "quantity": 60993,
+      "quantity": 61018,
       "name": "Coins"
     },
     {
@@ -74,51 +74,9 @@
     },
     {
       "slot": 11,
-      "id": 436,
+      "id": 440,
       "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 12,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 13,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 14,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 15,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 16,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 17,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
-    },
-    {
-      "slot": 18,
-      "id": 436,
-      "quantity": 1,
-      "name": "Copper ore"
+      "name": "Iron ore"
     },
     {
       "slot": 19,

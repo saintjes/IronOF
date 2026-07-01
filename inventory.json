@@ -1,16 +1,148 @@
 {
-  "exported_at": "2026-07-02T00:12:54.903997300+02:00",
+  "exported_at": "2026-07-02T00:14:52.504646100+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 1,
+  "item_count": 23,
   "items": [
     {
       "slot": 0,
       "id": 4822,
-      "quantity": 8115,
+      "quantity": 8595,
       "name": "Mithril nails"
+    },
+    {
+      "slot": 6,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 7,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 8,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 9,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 10,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 11,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 12,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 13,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 14,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 15,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 16,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 17,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 18,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 19,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 20,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 21,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 22,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 23,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 24,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 25,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 26,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
+    },
+    {
+      "slot": 27,
+      "id": 2359,
+      "quantity": 1,
+      "name": "Mithril bar"
     }
   ]
 }

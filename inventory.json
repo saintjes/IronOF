@@ -1,22 +1,16 @@
 {
-  "exported_at": "2026-07-01T22:19:43.895045100+02:00",
+  "exported_at": "2026-07-01T22:21:51.135198900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 24,
+  "item_count": 27,
   "items": [
     {
       "slot": 0,
       "id": 556,
       "quantity": 3693,
       "name": "Air rune"
-    },
-    {
-      "slot": 1,
-      "id": 1511,
-      "quantity": 1,
-      "name": "Logs"
     },
     {
       "slot": 2,
@@ -27,7 +21,7 @@
     {
       "slot": 3,
       "id": 995,
-      "quantity": 60898,
+      "quantity": 60927,
       "name": "Coins"
     },
     {
@@ -85,6 +79,12 @@
       "name": "Buttons"
     },
     {
+      "slot": 13,
+      "id": 1129,
+      "quantity": 1,
+      "name": "Leather body"
+    },
+    {
       "slot": 14,
       "id": 314,
       "quantity": 6,
@@ -101,6 +101,12 @@
       "id": 2351,
       "quantity": 1,
       "name": "Iron bar"
+    },
+    {
+      "slot": 17,
+      "id": 1627,
+      "quantity": 1,
+      "name": "Uncut jade"
     },
     {
       "slot": 18,
@@ -127,6 +133,12 @@
       "name": "Coal"
     },
     {
+      "slot": 22,
+      "id": 440,
+      "quantity": 1,
+      "name": "Iron ore"
+    },
+    {
       "slot": 23,
       "id": 1267,
       "quantity": 1,
@@ -137,6 +149,12 @@
       "id": 688,
       "quantity": 1,
       "name": "Buttons"
+    },
+    {
+      "slot": 25,
+      "id": 1627,
+      "quantity": 1,
+      "name": "Uncut jade"
     },
     {
       "slot": 26,

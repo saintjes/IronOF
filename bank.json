@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:45:25.514700900+02:00",
+  "exported_at": "2026-07-01T22:53:46.002970100+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -603,7 +603,7 @@
     {
       "slot": 99,
       "id": 440,
-      "quantity": 1,
+      "quantity": 3,
       "name": "Iron ore"
     },
     {
@@ -615,7 +615,7 @@
     {
       "slot": 101,
       "id": 444,
-      "quantity": 5074,
+      "quantity": 5066,
       "name": "Gold ore"
     },
     {
@@ -639,7 +639,7 @@
     {
       "slot": 105,
       "id": 436,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Copper ore"
     },
     {

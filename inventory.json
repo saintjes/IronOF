@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:51:02.174315800+02:00",
+  "exported_at": "2026-07-01T22:53:42.991203400+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -27,7 +27,7 @@
     {
       "slot": 3,
       "id": 995,
-      "quantity": 61018,
+      "quantity": 61111,
       "name": "Coins"
     },
     {
@@ -74,57 +74,57 @@
     },
     {
       "slot": 11,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 12,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 13,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 14,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 15,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 16,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 17,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 18,
-      "id": 440,
+      "id": 444,
       "quantity": 1,
-      "name": "Iron ore"
+      "name": "Gold ore"
     },
     {
       "slot": 19,
-      "id": 436,
+      "id": 444,
       "quantity": 1,
-      "name": "Copper ore"
+      "name": "Gold ore"
     },
     {
       "slot": 20,
@@ -146,9 +146,9 @@
     },
     {
       "slot": 23,
-      "id": 436,
+      "id": 440,
       "quantity": 1,
-      "name": "Copper ore"
+      "name": "Iron ore"
     },
     {
       "slot": 24,

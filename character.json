@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T23:39:04.248290400+02:00",
+  "exported_at": "2026-07-01T23:42:37.245195400+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -43,7 +43,7 @@
     "Magic": {
       "real_level": 68,
       "boosted_level": 68,
-      "experience": 633227
+      "experience": 633262
     },
     "Cooking": {
       "real_level": 71,
@@ -78,7 +78,7 @@
     "Smithing": {
       "real_level": 58,
       "boosted_level": 58,
-      "experience": 232903
+      "experience": 234153
     },
     "Mining": {
       "real_level": 85,

@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T23:40:39.040869600+02:00",
+  "exported_at": "2026-07-01T23:41:10.854437600+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -339,13 +339,13 @@
     {
       "slot": 55,
       "id": 554,
-      "quantity": 3779,
+      "quantity": 3778,
       "name": "Fire rune"
     },
     {
       "slot": 56,
       "id": 556,
-      "quantity": 3677,
+      "quantity": 3678,
       "name": "Air rune"
     },
     {
@@ -363,7 +363,7 @@
     {
       "slot": 59,
       "id": 563,
-      "quantity": 2642,
+      "quantity": 2641,
       "name": "Law rune"
     },
     {
@@ -729,7 +729,7 @@
     {
       "slot": 120,
       "id": 2359,
-      "quantity": 1074,
+      "quantity": 1046,
       "name": "Mithril bar"
     },
     {

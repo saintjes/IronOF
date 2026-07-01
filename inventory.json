@@ -1,16 +1,178 @@
 {
-  "exported_at": "2026-07-02T00:47:07.722253700+02:00",
+  "exported_at": "2026-07-02T00:48:58.144835900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 1,
+  "item_count": 28,
   "items": [
     {
       "slot": 0,
       "id": 12019,
       "quantity": 1,
       "name": "Coal bag"
+    },
+    {
+      "slot": 1,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 2,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 3,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 4,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 5,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 6,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 7,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 8,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 9,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 10,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 11,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 12,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 13,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 14,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 15,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 16,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 17,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 18,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 19,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 20,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 21,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 22,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 23,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 24,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 25,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 26,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 27,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
     }
   ]
 }

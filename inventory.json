@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T21:50:26.880536400+02:00",
+  "exported_at": "2026-07-01T21:53:07.108720700+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 22,
+  "item_count": 20,
   "items": [
     {
       "slot": 0,
@@ -14,9 +14,9 @@
     },
     {
       "slot": 1,
-      "id": 453,
+      "id": 5067,
       "quantity": 1,
-      "name": "Coal"
+      "name": "Exquisite clothes"
     },
     {
       "slot": 2,
@@ -27,7 +27,7 @@
     {
       "slot": 3,
       "id": 995,
-      "quantity": 60935,
+      "quantity": 60735,
       "name": "Coins"
     },
     {
@@ -35,18 +35,6 @@
       "id": 590,
       "quantity": 1,
       "name": "Tinderbox"
-    },
-    {
-      "slot": 5,
-      "id": 1511,
-      "quantity": 1,
-      "name": "Logs"
-    },
-    {
-      "slot": 6,
-      "id": 5065,
-      "quantity": 1,
-      "name": "Book on costumes"
     },
     {
       "slot": 9,

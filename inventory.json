@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:15:37.294323100+02:00",
+  "exported_at": "2026-07-01T22:17:31.294350300+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 16,
+  "item_count": 26,
   "items": [
     {
       "slot": 0,
@@ -15,7 +15,7 @@
     {
       "slot": 1,
       "id": 22523,
-      "quantity": 1,
+      "quantity": 5,
       "name": "Coin pouch"
     },
     {
@@ -43,6 +43,24 @@
       "name": "Logs"
     },
     {
+      "slot": 6,
+      "id": 251,
+      "quantity": 1,
+      "name": "Marrentill"
+    },
+    {
+      "slot": 7,
+      "id": 1349,
+      "quantity": 1,
+      "name": "Iron axe"
+    },
+    {
+      "slot": 8,
+      "id": 1267,
+      "quantity": 1,
+      "name": "Iron pickaxe"
+    },
+    {
       "slot": 9,
       "id": 361,
       "quantity": 1,
@@ -67,6 +85,18 @@
       "name": "Tuna"
     },
     {
+      "slot": 13,
+      "id": 1349,
+      "quantity": 1,
+      "name": "Iron axe"
+    },
+    {
+      "slot": 14,
+      "id": 314,
+      "quantity": 2,
+      "name": "Feather"
+    },
+    {
       "slot": 15,
       "id": 2351,
       "quantity": 1,
@@ -77,6 +107,12 @@
       "id": 2351,
       "quantity": 1,
       "name": "Iron bar"
+    },
+    {
+      "slot": 17,
+      "id": 1351,
+      "quantity": 1,
+      "name": "Bronze axe"
     },
     {
       "slot": 18,
@@ -95,6 +131,30 @@
       "id": 557,
       "quantity": 1332,
       "name": "Earth rune"
+    },
+    {
+      "slot": 21,
+      "id": 453,
+      "quantity": 1,
+      "name": "Coal"
+    },
+    {
+      "slot": 22,
+      "id": 1349,
+      "quantity": 1,
+      "name": "Iron axe"
+    },
+    {
+      "slot": 23,
+      "id": 1267,
+      "quantity": 1,
+      "name": "Iron pickaxe"
+    },
+    {
+      "slot": 24,
+      "id": 688,
+      "quantity": 1,
+      "name": "Buttons"
     },
     {
       "slot": 27,

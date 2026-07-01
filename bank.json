@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T23:00:56.847319700+02:00",
+  "exported_at": "2026-07-01T23:03:07.062286700+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -608,117 +608,117 @@
     },
     {
       "slot": 100,
-      "id": 453,
-      "quantity": 10161,
-      "name": "Coal"
-    },
-    {
-      "slot": 101,
       "id": 444,
       "quantity": 5070,
       "name": "Gold ore"
     },
     {
-      "slot": 102,
+      "slot": 101,
       "id": 2357,
       "quantity": 565,
       "name": "Gold bar"
     },
     {
-      "slot": 103,
-      "id": 447,
-      "quantity": 6686,
-      "name": "Mithril ore"
-    },
-    {
-      "slot": 104,
+      "slot": 102,
       "id": 2355,
       "quantity": 1,
       "name": "Silver bar"
     },
     {
-      "slot": 105,
+      "slot": 103,
       "id": 436,
       "quantity": 2,
       "name": "Copper ore"
     },
     {
-      "slot": 106,
+      "slot": 104,
       "id": 438,
       "quantity": 2,
       "name": "Tin ore"
     },
     {
-      "slot": 107,
+      "slot": 105,
       "id": 552,
       "quantity": 1,
       "name": "Ghostspeak amulet"
     },
     {
-      "slot": 108,
+      "slot": 106,
       "id": 25527,
       "quantity": 2113,
       "name": "Stardust"
     },
     {
-      "slot": 109,
+      "slot": 107,
       "id": 442,
       "quantity": 1,
       "name": "Silver ore"
     },
     {
-      "slot": 110,
+      "slot": 108,
       "id": 3861,
       "quantity": 2,
       "name": "Games necklace(4)"
     },
     {
-      "slot": 111,
+      "slot": 109,
       "id": 21760,
       "quantity": 1,
       "name": "Kharedst's memoirs"
     },
     {
-      "slot": 112,
+      "slot": 110,
       "id": 449,
       "quantity": 2901,
       "name": "Adamantite ore"
     },
     {
-      "slot": 113,
+      "slot": 111,
       "id": 451,
       "quantity": 16,
       "name": "Runite ore"
     },
     {
-      "slot": 114,
+      "slot": 112,
       "id": 7936,
       "quantity": 70,
       "name": "Pure essence"
     },
     {
-      "slot": 115,
+      "slot": 113,
       "id": 1436,
       "quantity": 435,
       "name": "Rune essence"
     },
     {
-      "slot": 116,
+      "slot": 114,
       "id": 25696,
       "quantity": 16,
       "name": "Mind core"
     },
     {
-      "slot": 117,
+      "slot": 115,
       "id": 12019,
       "quantity": 1,
       "name": "Coal bag"
     },
     {
-      "slot": 118,
+      "slot": 116,
       "id": 12020,
       "quantity": 1,
       "name": "Gem bag"
+    },
+    {
+      "slot": 117,
+      "id": 453,
+      "quantity": 10161,
+      "name": "Coal"
+    },
+    {
+      "slot": 118,
+      "id": 447,
+      "quantity": 6686,
+      "name": "Mithril ore"
     },
     {
       "slot": 119,
@@ -1149,7 +1149,7 @@
     {
       "slot": 190,
       "id": 995,
-      "quantity": 1402106,
+      "quantity": 1302106,
       "name": "Coins"
     },
     {

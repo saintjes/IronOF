@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:33:59.630849800+02:00",
+  "exported_at": "2026-07-01T22:34:41.031094400+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 26,
+  "item_count": 21,
   "items": [
     {
       "slot": 0,
@@ -27,7 +27,7 @@
     {
       "slot": 3,
       "id": 995,
-      "quantity": 60955,
+      "quantity": 60993,
       "name": "Coins"
     },
     {
@@ -74,21 +74,15 @@
     },
     {
       "slot": 11,
-      "id": 946,
+      "id": 1511,
       "quantity": 1,
-      "name": "Knife"
+      "name": "Logs"
     },
     {
       "slot": 12,
-      "id": 201,
+      "id": 251,
       "quantity": 1,
-      "name": "Grimy marrentill"
-    },
-    {
-      "slot": 13,
-      "id": 2138,
-      "quantity": 1,
-      "name": "Raw chicken"
+      "name": "Marrentill"
     },
     {
       "slot": 14,
@@ -98,9 +92,9 @@
     },
     {
       "slot": 15,
-      "id": 203,
+      "id": 253,
       "quantity": 1,
-      "name": "Grimy tarromin"
+      "name": "Tarromin"
     },
     {
       "slot": 16,
@@ -113,12 +107,6 @@
       "id": 4310,
       "quantity": 1,
       "name": "Ham boots"
-    },
-    {
-      "slot": 18,
-      "id": 946,
-      "quantity": 1,
-      "name": "Knife"
     },
     {
       "slot": 19,
@@ -143,24 +131,6 @@
       "id": 1129,
       "quantity": 1,
       "name": "Leather body"
-    },
-    {
-      "slot": 23,
-      "id": 1265,
-      "quantity": 1,
-      "name": "Bronze pickaxe"
-    },
-    {
-      "slot": 24,
-      "id": 22523,
-      "quantity": 3,
-      "name": "Coin pouch"
-    },
-    {
-      "slot": 25,
-      "id": 321,
-      "quantity": 1,
-      "name": "Raw anchovies"
     }
   ]
 }

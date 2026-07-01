@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:34:02.032527+02:00",
+  "exported_at": "2026-07-01T22:35:22.427551200+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "stat_changed",
@@ -27,7 +27,7 @@
     },
     "Hitpoints": {
       "real_level": 78,
-      "boosted_level": 60,
+      "boosted_level": 58,
       "experience": 1660907
     },
     "Ranged": {
@@ -88,7 +88,7 @@
     "Herblore": {
       "real_level": 21,
       "boosted_level": 21,
-      "experience": 5394
+      "experience": 5402
     },
     "Agility": {
       "real_level": 50,
@@ -98,7 +98,7 @@
     "Thieving": {
       "real_level": 18,
       "boosted_level": 18,
-      "experience": 3782
+      "experience": 3897
     },
     "Slayer": {
       "real_level": 1,

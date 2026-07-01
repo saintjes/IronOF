@@ -1,27 +1,27 @@
 {
-  "exported_at": "2026-07-01T22:42:41.084319800+02:00",
+  "exported_at": "2026-07-01T22:45:57.303075500+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 25,
+  "item_count": 13,
   "items": [
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3687,
+      "quantity": 3684,
       "name": "Air rune"
     },
     {
       "slot": 1,
       "id": 554,
-      "quantity": 3781,
+      "quantity": 3780,
       "name": "Fire rune"
     },
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2644,
+      "quantity": 2643,
       "name": "Law rune"
     },
     {
@@ -50,9 +50,9 @@
     },
     {
       "slot": 7,
-      "id": 4298,
+      "id": 1275,
       "quantity": 1,
-      "name": "Ham shirt"
+      "name": "Rune pickaxe"
     },
     {
       "slot": 8,
@@ -73,88 +73,16 @@
       "name": "Tuna"
     },
     {
-      "slot": 11,
-      "id": 1511,
+      "slot": 19,
+      "id": 436,
       "quantity": 1,
-      "name": "Logs"
-    },
-    {
-      "slot": 12,
-      "id": 251,
-      "quantity": 1,
-      "name": "Marrentill"
-    },
-    {
-      "slot": 13,
-      "id": 11850,
-      "quantity": 1,
-      "name": "Graceful hood"
-    },
-    {
-      "slot": 14,
-      "id": 1733,
-      "quantity": 1,
-      "name": "Needle"
-    },
-    {
-      "slot": 15,
-      "id": 253,
-      "quantity": 1,
-      "name": "Tarromin"
-    },
-    {
-      "slot": 16,
-      "id": 453,
-      "quantity": 1,
-      "name": "Coal"
-    },
-    {
-      "slot": 17,
-      "id": 4310,
-      "quantity": 1,
-      "name": "Ham boots"
-    },
-    {
-      "slot": 18,
-      "id": 1511,
-      "quantity": 1,
-      "name": "Logs"
-    },
-    {
-      "slot": 20,
-      "id": 688,
-      "quantity": 1,
-      "name": "Buttons"
-    },
-    {
-      "slot": 21,
-      "id": 321,
-      "quantity": 1,
-      "name": "Raw anchovies"
-    },
-    {
-      "slot": 22,
-      "id": 4308,
-      "quantity": 1,
-      "name": "Ham gloves"
+      "name": "Copper ore"
     },
     {
       "slot": 23,
-      "id": 1267,
+      "id": 436,
       "quantity": 1,
-      "name": "Iron pickaxe"
-    },
-    {
-      "slot": 24,
-      "id": 1353,
-      "quantity": 1,
-      "name": "Steel axe"
-    },
-    {
-      "slot": 25,
-      "id": 1625,
-      "quantity": 1,
-      "name": "Uncut opal"
+      "name": "Copper ore"
     }
   ]
 }

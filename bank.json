@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:25:06.763278200+02:00",
+  "exported_at": "2026-07-01T22:45:25.514700900+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "bank",
-  "item_count": 404,
+  "item_count": 409,
   "items": [
     {
       "slot": 0,
@@ -213,7 +213,7 @@
     {
       "slot": 34,
       "id": 1511,
-      "quantity": 8,
+      "quantity": 10,
       "name": "Logs"
     },
     {
@@ -609,7 +609,7 @@
     {
       "slot": 100,
       "id": 453,
-      "quantity": 10187,
+      "quantity": 10188,
       "name": "Coal"
     },
     {
@@ -639,7 +639,7 @@
     {
       "slot": 105,
       "id": 436,
-      "quantity": 2,
+      "quantity": 1,
       "name": "Copper ore"
     },
     {
@@ -1047,7 +1047,7 @@
     {
       "slot": 173,
       "id": 1353,
-      "quantity": 36,
+      "quantity": 37,
       "name": "Steel axe"
     },
     {
@@ -1095,7 +1095,7 @@
     {
       "slot": 181,
       "id": 1733,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Needle"
     },
     {
@@ -2415,7 +2415,7 @@
     {
       "slot": 401,
       "id": 688,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Buttons"
     },
     {
@@ -2427,8 +2427,38 @@
     {
       "slot": 403,
       "id": 251,
-      "quantity": 1,
+      "quantity": 2,
       "name": "Marrentill"
+    },
+    {
+      "slot": 404,
+      "id": 4308,
+      "quantity": 1,
+      "name": "Ham gloves"
+    },
+    {
+      "slot": 405,
+      "id": 4298,
+      "quantity": 1,
+      "name": "Ham shirt"
+    },
+    {
+      "slot": 406,
+      "id": 321,
+      "quantity": 1,
+      "name": "Raw anchovies"
+    },
+    {
+      "slot": 407,
+      "id": 253,
+      "quantity": 1,
+      "name": "Tarromin"
+    },
+    {
+      "slot": 408,
+      "id": 1625,
+      "quantity": 1,
+      "name": "Uncut opal"
     }
   ]
 }

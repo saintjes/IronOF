@@ -1,16 +1,22 @@
 {
-  "exported_at": "2026-07-01T22:12:00.664852600+02:00",
+  "exported_at": "2026-07-01T22:15:37.294323100+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 14,
+  "item_count": 16,
   "items": [
     {
       "slot": 0,
       "id": 556,
       "quantity": 3693,
       "name": "Air rune"
+    },
+    {
+      "slot": 1,
+      "id": 22523,
+      "quantity": 1,
+      "name": "Coin pouch"
     },
     {
       "slot": 2,
@@ -29,6 +35,12 @@
       "id": 590,
       "quantity": 1,
       "name": "Tinderbox"
+    },
+    {
+      "slot": 5,
+      "id": 1511,
+      "quantity": 1,
+      "name": "Logs"
     },
     {
       "slot": 9,

@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-02T00:53:17.377072500+02:00",
+  "exported_at": "2026-07-02T00:55:01.795322+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -711,13 +711,13 @@
     {
       "slot": 117,
       "id": 453,
-      "quantity": 6756,
+      "quantity": 6648,
       "name": "Coal"
     },
     {
       "slot": 118,
       "id": 447,
-      "quantity": 4958,
+      "quantity": 4904,
       "name": "Mithril ore"
     },
     {
@@ -729,7 +729,7 @@
     {
       "slot": 120,
       "id": 2359,
-      "quantity": 887,
+      "quantity": 968,
       "name": "Mithril bar"
     },
     {

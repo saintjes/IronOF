@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-02T00:32:52.035311600+02:00",
+  "exported_at": "2026-07-02T00:35:07.659608800+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -711,13 +711,13 @@
     {
       "slot": 117,
       "id": 453,
-      "quantity": 8025,
+      "quantity": 7863,
       "name": "Coal"
     },
     {
       "slot": 118,
       "id": 447,
-      "quantity": 5606,
+      "quantity": 5498,
       "name": "Mithril ore"
     },
     {
@@ -729,1760 +729,1760 @@
     {
       "slot": 120,
       "id": 2359,
-      "quantity": 266,
+      "quantity": 374,
       "name": "Mithril bar"
     },
     {
       "slot": 121,
+      "id": 4822,
+      "quantity": 12525,
+      "name": "Mithril nails"
+    },
+    {
+      "slot": 122,
       "id": 2142,
       "quantity": 1,
       "name": "Cooked meat"
     },
     {
-      "slot": 122,
+      "slot": 123,
       "id": 315,
       "quantity": 225,
       "name": "Shrimps"
     },
     {
-      "slot": 123,
+      "slot": 124,
       "id": 2140,
       "quantity": 1,
       "name": "Cooked chicken"
     },
     {
-      "slot": 124,
+      "slot": 125,
       "id": 7954,
       "quantity": 2,
       "name": "Burnt shrimp"
     },
     {
-      "slot": 125,
+      "slot": 126,
       "id": 333,
       "quantity": 1,
       "name": "Trout"
     },
     {
-      "slot": 126,
+      "slot": 127,
       "id": 329,
       "quantity": 1,
       "name": "Salmon"
     },
     {
-      "slot": 127,
+      "slot": 128,
       "id": 349,
       "quantity": 1,
       "name": "Raw pike"
     },
     {
-      "slot": 128,
+      "slot": 129,
       "id": 351,
       "quantity": 1,
       "name": "Pike"
     },
     {
-      "slot": 129,
+      "slot": 130,
       "id": 331,
       "quantity": 31,
       "name": "Raw salmon"
     },
     {
-      "slot": 130,
+      "slot": 131,
       "id": 335,
       "quantity": 12,
       "name": "Raw trout"
     },
     {
-      "slot": 131,
+      "slot": 132,
       "id": 347,
       "quantity": 138,
       "name": "Herring"
     },
     {
-      "slot": 132,
+      "slot": 133,
       "id": 359,
       "quantity": 10,
       "name": "Raw tuna"
     },
     {
-      "slot": 133,
+      "slot": 134,
       "id": 361,
       "quantity": 649,
       "name": "Tuna"
     },
     {
-      "slot": 134,
+      "slot": 135,
       "id": 367,
       "quantity": 85,
       "name": "Burnt fish"
     },
     {
-      "slot": 135,
+      "slot": 136,
       "id": 371,
       "quantity": 17,
       "name": "Raw swordfish"
     },
     {
-      "slot": 136,
+      "slot": 137,
       "id": 373,
       "quantity": 539,
       "name": "Swordfish"
     },
     {
-      "slot": 137,
+      "slot": 138,
       "id": 375,
       "quantity": 545,
       "name": "Burnt swordfish"
     },
     {
-      "slot": 138,
+      "slot": 139,
       "id": 345,
       "quantity": 5,
       "name": "Raw herring"
     },
     {
-      "slot": 139,
+      "slot": 140,
       "id": 327,
       "quantity": 10,
       "name": "Raw sardine"
     },
     {
-      "slot": 140,
+      "slot": 141,
       "id": 325,
       "quantity": 238,
       "name": "Sardine"
     },
     {
-      "slot": 141,
+      "slot": 142,
       "id": 1971,
       "quantity": 6,
       "name": "Kebab"
     },
     {
-      "slot": 142,
+      "slot": 143,
       "id": 33109,
       "quantity": 8,
       "name": "Cooked t-bone steak"
     },
     {
-      "slot": 143,
+      "slot": 144,
       "id": 33106,
       "quantity": 22,
       "name": "Raw t-bone steak"
     },
     {
-      "slot": 144,
+      "slot": 145,
       "id": 6963,
       "quantity": 1,
       "name": "Roll"
     },
     {
-      "slot": 145,
+      "slot": 146,
       "id": 1989,
       "quantity": 2,
       "name": "Half full wine jug"
     },
     {
-      "slot": 146,
+      "slot": 147,
       "id": 1973,
       "quantity": 1,
       "name": "Chocolate bar"
     },
     {
-      "slot": 147,
+      "slot": 148,
       "id": 1975,
       "quantity": 28,
       "name": "Chocolate dust"
     },
     {
-      "slot": 148,
+      "slot": 149,
       "id": 6961,
       "quantity": 1,
       "name": "Baguette"
     },
     {
-      "slot": 149,
+      "slot": 150,
       "id": 21276,
       "quantity": 1,
       "name": "Skull sceptre (i)"
     },
     {
-      "slot": 150,
+      "slot": 151,
       "id": 13660,
       "quantity": 1,
       "name": "Chronicle"
     },
     {
-      "slot": 151,
+      "slot": 152,
       "id": 33104,
       "quantity": 1,
       "name": "Cowbell amulet"
     },
     {
-      "slot": 152,
+      "slot": 153,
       "id": 23183,
       "quantity": 1,
       "name": "Strange device"
     },
     {
-      "slot": 153,
+      "slot": 154,
       "id": 952,
       "quantity": 3,
       "name": "Spade"
     },
     {
-      "slot": 154,
+      "slot": 155,
       "id": 1654,
       "quantity": 6,
       "name": "Gold necklace"
     },
     {
-      "slot": 155,
+      "slot": 156,
       "id": 1635,
       "quantity": 5,
       "name": "Gold ring"
     },
     {
-      "slot": 156,
+      "slot": 157,
       "id": 1351,
       "quantity": 5,
       "name": "Bronze axe"
     },
     {
-      "slot": 157,
+      "slot": 158,
       "id": 1949,
       "quantity": 1,
       "name": "Chef's hat"
     },
     {
-      "slot": 158,
+      "slot": 159,
       "id": 1007,
       "quantity": 1,
       "name": "Red cape"
     },
     {
-      "slot": 159,
+      "slot": 160,
       "id": 25139,
       "quantity": 1,
       "name": "Bone fragments"
     },
     {
-      "slot": 160,
+      "slot": 161,
       "id": 3008,
       "quantity": 1,
       "name": "Energy potion(4)"
     },
     {
-      "slot": 161,
+      "slot": 162,
       "id": 1203,
       "quantity": 5,
       "name": "Iron dagger"
     },
     {
-      "slot": 162,
+      "slot": 163,
       "id": 1129,
       "quantity": 7,
       "name": "Leather body"
     },
     {
-      "slot": 163,
+      "slot": 164,
       "id": 1095,
       "quantity": 6,
       "name": "Leather chaps"
     },
     {
-      "slot": 164,
+      "slot": 165,
       "id": 1275,
       "quantity": 1,
       "name": "Rune pickaxe"
     },
     {
-      "slot": 165,
+      "slot": 166,
       "id": 1735,
       "quantity": 1,
       "name": "Shears"
     },
     {
-      "slot": 166,
+      "slot": 167,
       "id": 311,
       "quantity": 2,
       "name": "Harpoon"
     },
     {
-      "slot": 167,
+      "slot": 168,
       "id": 309,
       "quantity": 1,
       "name": "Fly fishing rod"
     },
     {
-      "slot": 168,
+      "slot": 169,
       "id": 1925,
       "quantity": 2,
       "name": "Bucket"
     },
     {
-      "slot": 169,
+      "slot": 170,
       "id": 1929,
       "quantity": 1,
       "name": "Bucket of water"
     },
     {
-      "slot": 170,
+      "slot": 171,
       "id": 1931,
       "quantity": 3,
       "name": "Pot"
     },
     {
-      "slot": 171,
+      "slot": 172,
       "id": 303,
       "quantity": 2,
       "name": "Small fishing net"
     },
     {
-      "slot": 172,
+      "slot": 173,
       "id": 2347,
       "quantity": 3,
       "name": "Hammer"
     },
     {
-      "slot": 173,
+      "slot": 174,
       "id": 946,
       "quantity": 6,
       "name": "Knife"
     },
     {
-      "slot": 174,
+      "slot": 175,
       "id": 590,
       "quantity": 5,
       "name": "Tinderbox"
     },
     {
-      "slot": 175,
+      "slot": 176,
       "id": 1755,
       "quantity": 1,
       "name": "Chisel"
     },
     {
-      "slot": 176,
+      "slot": 177,
       "id": 307,
       "quantity": 1,
       "name": "Fishing rod"
     },
     {
-      "slot": 177,
+      "slot": 178,
       "id": 1353,
       "quantity": 37,
       "name": "Steel axe"
     },
     {
-      "slot": 178,
+      "slot": 179,
       "id": 1599,
       "quantity": 1,
       "name": "Holy mould"
     },
     {
-      "slot": 179,
+      "slot": 180,
       "id": 1592,
       "quantity": 1,
       "name": "Ring mould"
     },
     {
-      "slot": 180,
+      "slot": 181,
       "id": 1597,
       "quantity": 1,
       "name": "Necklace mould"
     },
     {
-      "slot": 181,
+      "slot": 182,
       "id": 1595,
       "quantity": 1,
       "name": "Amulet mould"
     },
     {
-      "slot": 182,
+      "slot": 183,
       "id": 5523,
       "quantity": 1,
       "name": "Tiara mould"
     },
     {
-      "slot": 183,
+      "slot": 184,
       "id": 1269,
       "quantity": 1,
       "name": "Steel pickaxe"
     },
     {
-      "slot": 184,
+      "slot": 185,
       "id": 1361,
       "quantity": 3,
       "name": "Black axe"
     },
     {
-      "slot": 185,
+      "slot": 186,
       "id": 1733,
       "quantity": 2,
       "name": "Needle"
     },
     {
-      "slot": 186,
+      "slot": 187,
       "id": 1734,
       "quantity": 71,
       "name": "Thread"
     },
     {
-      "slot": 187,
+      "slot": 188,
       "id": 313,
       "quantity": 690,
       "name": "Fishing bait"
     },
     {
-      "slot": 188,
+      "slot": 189,
       "id": 314,
       "quantity": 798,
       "name": "Feather"
     },
     {
-      "slot": 189,
+      "slot": 190,
       "id": 1355,
       "quantity": 4,
       "name": "Mithril axe"
     },
     {
-      "slot": 190,
+      "slot": 191,
       "id": 25644,
       "quantity": 1,
       "name": "Imcando hammer"
     },
     {
-      "slot": 191,
+      "slot": 192,
       "id": 28136,
       "quantity": 1,
       "name": "Forestry kit"
     },
     {
-      "slot": 192,
+      "slot": 193,
       "id": 995,
       "quantity": 1189380,
       "name": "Coins"
     },
     {
-      "slot": 193,
+      "slot": 194,
       "id": 841,
       "quantity": 34,
       "name": "Shortbow"
     },
     {
-      "slot": 194,
+      "slot": 195,
       "id": 882,
       "quantity": 659,
       "name": "Bronze arrow"
     },
     {
-      "slot": 195,
+      "slot": 196,
       "id": 1139,
       "quantity": 1,
       "name": "Bronze med helm"
     },
     {
-      "slot": 196,
+      "slot": 197,
       "id": 1917,
       "quantity": 5,
       "name": "Beer"
     },
     {
-      "slot": 197,
+      "slot": 198,
       "id": 433,
       "quantity": 1,
       "name": "Pirate message"
     },
     {
-      "slot": 198,
+      "slot": 199,
       "id": 1009,
       "quantity": 1,
       "name": "Brass necklace"
     },
     {
-      "slot": 199,
+      "slot": 200,
       "id": 1005,
       "quantity": 1,
       "name": "White apron"
     },
     {
-      "slot": 200,
+      "slot": 201,
       "id": 6656,
       "quantity": 1,
       "name": "Camo helmet"
     },
     {
-      "slot": 201,
+      "slot": 202,
       "id": 6654,
       "quantity": 1,
       "name": "Camo top"
     },
     {
-      "slot": 202,
+      "slot": 203,
       "id": 1550,
       "quantity": 1,
       "name": "Garlic"
     },
     {
-      "slot": 203,
+      "slot": 204,
       "id": 9589,
       "quantity": 1,
       "name": "Dossier"
     },
     {
-      "slot": 204,
+      "slot": 205,
       "id": 275,
       "quantity": 1,
       "name": "Key"
     },
     {
-      "slot": 205,
+      "slot": 206,
       "id": 877,
       "quantity": 22,
       "name": "Bronze bolts"
     },
     {
-      "slot": 206,
+      "slot": 207,
       "id": 837,
       "quantity": 1,
       "name": "Crossbow"
     },
     {
-      "slot": 207,
+      "slot": 208,
       "id": 884,
       "quantity": 4678,
       "name": "Iron arrow"
     },
     {
-      "slot": 208,
+      "slot": 209,
       "id": 23294,
       "quantity": 3,
       "name": "Demon feet"
     },
     {
-      "slot": 209,
+      "slot": 210,
       "id": 23291,
       "quantity": 2,
       "name": "Bear feet"
     },
     {
-      "slot": 210,
+      "slot": 211,
       "id": 7596,
       "quantity": 1,
       "name": "Zombie boots"
     },
     {
-      "slot": 211,
+      "slot": 212,
       "id": 7592,
       "quantity": 1,
       "name": "Zombie shirt"
     },
     {
-      "slot": 212,
+      "slot": 213,
       "id": 7594,
       "quantity": 1,
       "name": "Zombie mask"
     },
     {
-      "slot": 213,
+      "slot": 214,
       "id": 845,
       "quantity": 32,
       "name": "Oak longbow"
     },
     {
-      "slot": 214,
+      "slot": 215,
       "id": 1167,
       "quantity": 24,
       "name": "Leather cowl"
     },
     {
-      "slot": 215,
+      "slot": 216,
       "id": 886,
       "quantity": 2811,
       "name": "Steel arrow"
     },
     {
-      "slot": 216,
+      "slot": 217,
       "id": 225,
       "quantity": 294,
       "name": "Limpwurt root"
     },
     {
-      "slot": 217,
+      "slot": 218,
       "id": 113,
       "quantity": 15,
       "name": "Strength potion(4)"
     },
     {
-      "slot": 218,
+      "slot": 219,
       "id": 119,
       "quantity": 1,
       "name": "Strength potion(1)"
     },
     {
-      "slot": 219,
+      "slot": 220,
       "id": 888,
       "quantity": 38,
       "name": "Mithril arrow"
     },
     {
-      "slot": 220,
+      "slot": 221,
       "id": 890,
       "quantity": 58,
       "name": "Adamant arrow"
     },
     {
-      "slot": 221,
+      "slot": 222,
       "id": 757,
       "quantity": 1,
       "name": "Book"
     },
     {
-      "slot": 222,
+      "slot": 223,
       "id": 759,
       "quantity": 1,
       "name": "Weapon store key"
     },
     {
-      "slot": 223,
+      "slot": 224,
       "id": 1919,
       "quantity": 1,
       "name": "Beer glass"
     },
     {
-      "slot": 224,
+      "slot": 225,
       "id": 843,
       "quantity": 32,
       "name": "Oak shortbow"
     },
     {
-      "slot": 225,
+      "slot": 226,
       "id": 1714,
       "quantity": 54,
       "name": "Unstrung symbol"
     },
     {
-      "slot": 226,
+      "slot": 227,
       "id": 6655,
       "quantity": 1,
       "name": "Camo bottoms"
     },
     {
-      "slot": 227,
+      "slot": 228,
       "id": 1067,
       "quantity": 1,
       "name": "Iron platelegs"
     },
     {
-      "slot": 228,
+      "slot": 229,
       "id": 1153,
       "quantity": 21,
       "name": "Iron full helm"
     },
     {
-      "slot": 229,
+      "slot": 230,
       "id": 1191,
       "quantity": 17,
       "name": "Iron kiteshield"
     },
     {
-      "slot": 230,
+      "slot": 231,
       "id": 25635,
       "quantity": 3,
       "name": "Barronite head"
     },
     {
-      "slot": 231,
+      "slot": 232,
       "id": 1656,
       "quantity": 151,
       "name": "Sapphire necklace"
     },
     {
-      "slot": 232,
+      "slot": 233,
       "id": 1539,
       "quantity": 75,
       "name": "Steel nails"
     },
     {
-      "slot": 233,
+      "slot": 234,
       "id": 1757,
       "quantity": 1,
       "name": "Brown apron"
     },
     {
-      "slot": 234,
+      "slot": 235,
       "id": 1099,
       "quantity": 1,
       "name": "Green d'hide chaps"
     },
     {
-      "slot": 235,
+      "slot": 236,
       "id": 1065,
       "quantity": 1,
       "name": "Green d'hide vambraces"
     },
     {
-      "slot": 236,
+      "slot": 237,
       "id": 1169,
       "quantity": 1,
       "name": "Coif"
     },
     {
-      "slot": 237,
+      "slot": 238,
       "id": 5525,
       "quantity": 1,
       "name": "Tiara"
     },
     {
-      "slot": 238,
+      "slot": 239,
       "id": 1716,
       "quantity": 1,
       "name": "Unblessed symbol"
     },
     {
-      "slot": 239,
+      "slot": 240,
       "id": 1446,
       "quantity": 2,
       "name": "Body talisman"
     },
     {
-      "slot": 240,
+      "slot": 241,
       "id": 25692,
       "quantity": 2,
       "name": "Ancient treatise"
     },
     {
-      "slot": 241,
+      "slot": 242,
       "id": 25133,
       "quantity": 1,
       "name": "Beekeeper's legs"
     },
     {
-      "slot": 242,
+      "slot": 243,
       "id": 25137,
       "quantity": 1,
       "name": "Beekeeper's boots"
     },
     {
-      "slot": 243,
+      "slot": 244,
       "id": 25129,
       "quantity": 1,
       "name": "Beekeeper's hat"
     },
     {
-      "slot": 244,
+      "slot": 245,
       "id": 6180,
       "quantity": 1,
       "name": "Lederhosen top"
     },
     {
-      "slot": 245,
+      "slot": 246,
       "id": 839,
       "quantity": 25,
       "name": "Longbow"
     },
     {
-      "slot": 246,
+      "slot": 247,
       "id": 1179,
       "quantity": 15,
       "name": "Black sq shield"
     },
     {
-      "slot": 247,
+      "slot": 248,
       "id": 1131,
       "quantity": 24,
       "name": "Hardleather body"
     },
     {
-      "slot": 248,
+      "slot": 249,
       "id": 6183,
       "quantity": 1,
       "name": "Frog token"
     },
     {
-      "slot": 249,
+      "slot": 250,
       "id": 3057,
       "quantity": 1,
       "name": "Mime mask"
     },
     {
-      "slot": 250,
+      "slot": 251,
       "id": 3061,
       "quantity": 1,
       "name": "Mime boots"
     },
     {
-      "slot": 251,
+      "slot": 252,
       "id": 3058,
       "quantity": 1,
       "name": "Mime top"
     },
     {
-      "slot": 252,
+      "slot": 253,
       "id": 3059,
       "quantity": 1,
       "name": "Mime legs"
     },
     {
-      "slot": 253,
+      "slot": 254,
       "id": 1267,
       "quantity": 23,
       "name": "Iron pickaxe"
     },
     {
-      "slot": 254,
+      "slot": 255,
       "id": 1365,
       "quantity": 23,
       "name": "Steel battleaxe"
     },
     {
-      "slot": 255,
+      "slot": 256,
       "id": 1077,
       "quantity": 1,
       "name": "Black platelegs"
     },
     {
-      "slot": 256,
+      "slot": 257,
       "id": 1125,
       "quantity": 2,
       "name": "Black platebody"
     },
     {
-      "slot": 257,
+      "slot": 258,
       "id": 1341,
       "quantity": 3,
       "name": "Black warhammer"
     },
     {
-      "slot": 258,
+      "slot": 259,
       "id": 1367,
       "quantity": 3,
       "name": "Black battleaxe"
     },
     {
-      "slot": 259,
+      "slot": 260,
       "id": 1069,
       "quantity": 16,
       "name": "Steel platelegs"
     },
     {
-      "slot": 260,
+      "slot": 261,
       "id": 12297,
       "quantity": 1,
       "name": "Black pickaxe"
     },
     {
-      "slot": 261,
+      "slot": 262,
       "id": 23321,
       "quantity": 1,
       "name": "Rune scimitar ornament kit (guthix)"
     },
     {
-      "slot": 262,
+      "slot": 263,
       "id": 23297,
       "quantity": 1,
       "name": "Jester cape"
     },
     {
-      "slot": 263,
+      "slot": 264,
       "id": 1295,
       "quantity": 56,
       "name": "Steel longsword"
     },
     {
-      "slot": 264,
+      "slot": 265,
       "id": 1207,
       "quantity": 19,
       "name": "Steel dagger"
     },
     {
-      "slot": 265,
+      "slot": 266,
       "id": 23318,
       "quantity": 1,
       "name": "Sandwich lady bottom"
     },
     {
-      "slot": 266,
+      "slot": 267,
       "id": 1157,
       "quantity": 26,
       "name": "Steel full helm"
     },
     {
-      "slot": 267,
+      "slot": 268,
       "id": 1119,
       "quantity": 24,
       "name": "Steel platebody"
     },
     {
-      "slot": 268,
+      "slot": 269,
       "id": 1083,
       "quantity": 20,
       "name": "Steel plateskirt"
     },
     {
-      "slot": 269,
+      "slot": 270,
       "id": 25698,
       "quantity": 1,
       "name": "Body core"
     },
     {
-      "slot": 270,
+      "slot": 271,
       "id": 33080,
       "quantity": 1,
       "name": "25th anniversary helmet"
     },
     {
-      "slot": 271,
+      "slot": 272,
       "id": 33084,
       "quantity": 1,
       "name": "25th anniversary skeleton tabard"
     },
     {
-      "slot": 272,
+      "slot": 273,
       "id": 33082,
       "quantity": 1,
       "name": "25th anniversary warrior tabard"
     },
     {
-      "slot": 273,
+      "slot": 274,
       "id": 33086,
       "quantity": 1,
       "name": "25th anniversary 5x5 hat"
     },
     {
-      "slot": 274,
+      "slot": 275,
       "id": 30646,
       "quantity": 1,
       "name": "Classic imp tail"
     },
     {
-      "slot": 275,
+      "slot": 276,
       "id": 30648,
       "quantity": 1,
       "name": "Classic imp hood"
     },
     {
-      "slot": 276,
+      "slot": 277,
       "id": 117,
       "quantity": 7,
       "name": "Strength potion(2)"
     },
     {
-      "slot": 277,
+      "slot": 278,
       "id": 1217,
       "quantity": 5,
       "name": "Black dagger"
     },
     {
-      "slot": 278,
+      "slot": 279,
       "id": 229,
       "quantity": 14,
       "name": "Vial"
     },
     {
-      "slot": 279,
+      "slot": 280,
       "id": 532,
       "quantity": 2,
       "name": "Big bones"
     },
     {
-      "slot": 280,
+      "slot": 281,
       "id": 1165,
       "quantity": 2,
       "name": "Black full helm"
     },
     {
-      "slot": 281,
+      "slot": 282,
       "id": 1089,
       "quantity": 1,
       "name": "Black plateskirt"
     },
     {
-      "slot": 282,
+      "slot": 283,
       "id": 1147,
       "quantity": 1,
       "name": "Rune med helm"
     },
     {
-      "slot": 283,
+      "slot": 284,
       "id": 1658,
       "quantity": 23,
       "name": "Emerald necklace"
     },
     {
-      "slot": 284,
+      "slot": 285,
       "id": 1660,
       "quantity": 145,
       "name": "Ruby necklace"
     },
     {
-      "slot": 285,
+      "slot": 286,
       "id": 1297,
       "quantity": 1,
       "name": "Black longsword"
     },
     {
-      "slot": 286,
+      "slot": 287,
       "id": 6182,
       "quantity": 1,
       "name": "Lederhosen hat"
     },
     {
-      "slot": 287,
+      "slot": 288,
       "id": 27802,
       "quantity": 1,
       "name": "Gnome child backpack"
     },
     {
-      "slot": 288,
+      "slot": 289,
       "id": 1662,
       "quantity": 23,
       "name": "Diamond necklace"
     },
     {
-      "slot": 289,
+      "slot": 290,
       "id": 1151,
       "quantity": 2,
       "name": "Black med helm"
     },
     {
-      "slot": 290,
+      "slot": 291,
       "id": 1113,
       "quantity": 1,
       "name": "Rune chainbody"
     },
     {
-      "slot": 291,
+      "slot": 292,
       "id": 1283,
       "quantity": 1,
       "name": "Black sword"
     },
     {
-      "slot": 292,
+      "slot": 293,
       "id": 115,
       "quantity": 1,
       "name": "Strength potion(3)"
     },
     {
-      "slot": 293,
+      "slot": 294,
       "id": 6181,
       "quantity": 1,
       "name": "Lederhosen shorts"
     },
     {
-      "slot": 294,
+      "slot": 295,
       "id": 1313,
       "quantity": 1,
       "name": "Black 2h sword"
     },
     {
-      "slot": 295,
+      "slot": 296,
       "id": 7595,
       "quantity": 1,
       "name": "Zombie gloves"
     },
     {
-      "slot": 296,
+      "slot": 297,
       "id": 7593,
       "quantity": 1,
       "name": "Zombie trousers"
     },
     {
-      "slot": 297,
+      "slot": 298,
       "id": 4319,
       "quantity": 1,
       "name": "Team-3 cape"
     },
     {
-      "slot": 298,
+      "slot": 299,
       "id": 6965,
       "quantity": 1,
       "name": "Square sandwich"
     },
     {
-      "slot": 299,
+      "slot": 300,
       "id": 1679,
       "quantity": 12,
       "name": "Ruby amulet (u)"
     },
     {
-      "slot": 300,
+      "slot": 301,
       "id": 1677,
       "quantity": 23,
       "name": "Emerald amulet (u)"
     },
     {
-      "slot": 301,
+      "slot": 302,
       "id": 1675,
       "quantity": 16,
       "name": "Sapphire amulet (u)"
     },
     {
-      "slot": 302,
+      "slot": 303,
       "id": 1185,
       "quantity": 1,
       "name": "Rune sq shield"
     },
     {
-      "slot": 303,
+      "slot": 304,
       "id": 1193,
       "quantity": 1,
       "name": "Steel kiteshield"
     },
     {
-      "slot": 304,
+      "slot": 305,
       "id": 1759,
       "quantity": 3,
       "name": "Ball of wool"
     },
     {
-      "slot": 305,
+      "slot": 306,
       "id": 23309,
       "quantity": 2,
       "name": "Amulet of defence (t)"
     },
     {
-      "slot": 306,
+      "slot": 307,
       "id": 23312,
       "quantity": 1,
       "name": "Sandwich lady hat"
     },
     {
-      "slot": 307,
+      "slot": 308,
       "id": 23300,
       "quantity": 1,
       "name": "Shoulder parrot"
     },
     {
-      "slot": 308,
+      "slot": 309,
       "id": 23303,
       "quantity": 1,
       "name": "Monk's robe top (t)"
     },
     {
-      "slot": 309,
+      "slot": 310,
       "id": 23306,
       "quantity": 1,
       "name": "Monk's robe (t)"
     },
     {
-      "slot": 310,
+      "slot": 311,
       "id": 3060,
       "quantity": 1,
       "name": "Mime gloves"
     },
     {
-      "slot": 311,
+      "slot": 312,
       "id": 23285,
       "quantity": 1,
       "name": "Mole slippers"
     },
     {
-      "slot": 312,
+      "slot": 313,
       "id": 20756,
       "quantity": 1,
       "name": "Hill giant club"
     },
     {
-      "slot": 313,
+      "slot": 314,
       "id": 22370,
       "quantity": 1,
       "name": "Bryophyta's staff"
     },
     {
-      "slot": 314,
+      "slot": 315,
       "id": 1327,
       "quantity": 1,
       "name": "Black scimitar"
     },
     {
-      "slot": 315,
+      "slot": 316,
       "id": 24361,
       "quantity": 4,
       "name": "Scroll box (beginner)"
     },
     {
-      "slot": 316,
+      "slot": 317,
       "id": 1285,
       "quantity": 1,
       "name": "Mithril sword"
     },
     {
-      "slot": 317,
+      "slot": 318,
       "id": 13192,
       "quantity": 1,
       "name": "Old school bond (untradeable)"
     },
     {
-      "slot": 318,
+      "slot": 319,
       "id": 11090,
       "quantity": 4,
       "name": "Phoenix necklace"
     },
     {
-      "slot": 319,
+      "slot": 320,
       "id": 5521,
       "quantity": 4,
       "name": "Binding necklace"
     },
     {
-      "slot": 320,
+      "slot": 321,
       "id": 3853,
       "quantity": 1,
       "name": "Games necklace(8)"
     },
     {
-      "slot": 321,
+      "slot": 322,
       "id": 11849,
       "quantity": 12,
       "name": "Mark of grace"
     },
     {
-      "slot": 322,
+      "slot": 323,
       "id": 25690,
       "quantity": 1,
       "name": "Ancient astroscope"
     },
     {
-      "slot": 323,
+      "slot": 324,
       "id": 25688,
       "quantity": 1,
       "name": "Ancient ledger"
     },
     {
-      "slot": 324,
+      "slot": 325,
       "id": 25633,
       "quantity": 2,
       "name": "Imcando hammer (broken)"
     },
     {
-      "slot": 325,
+      "slot": 326,
       "id": 25694,
       "quantity": 1,
       "name": "Ancient carcanet"
     },
     {
-      "slot": 326,
+      "slot": 327,
       "id": 25537,
       "quantity": 1,
       "name": "Bag full of gems"
     },
     {
-      "slot": 327,
+      "slot": 328,
       "id": 12012,
       "quantity": 1,
       "name": "Golden nugget"
     },
     {
-      "slot": 328,
+      "slot": 329,
       "id": 464,
       "quantity": 3,
       "name": "Strange fruit"
     },
     {
-      "slot": 329,
+      "slot": 330,
       "id": 25549,
       "quantity": 1,
       "name": "Golden prospector helmet"
     },
     {
-      "slot": 330,
+      "slot": 331,
       "id": 19687,
       "quantity": 1,
       "name": "Helm of raedwald"
     },
     {
-      "slot": 331,
+      "slot": 332,
       "id": 19695,
       "quantity": 1,
       "name": "Clue hunter boots"
     },
     {
-      "slot": 332,
+      "slot": 333,
       "id": 185,
       "quantity": 3,
       "name": "Superantipoison(1)"
     },
     {
-      "slot": 333,
+      "slot": 334,
       "id": 3855,
       "quantity": 1,
       "name": "Games necklace(7)"
     },
     {
-      "slot": 334,
+      "slot": 335,
       "id": 8463,
       "quantity": 1,
       "name": "Construction guide"
     },
     {
-      "slot": 335,
+      "slot": 336,
       "id": 5293,
       "quantity": 2,
       "name": "Tarromin seed"
     },
     {
-      "slot": 336,
+      "slot": 337,
       "id": 13573,
       "quantity": 15,
       "name": "Dynamite"
     },
     {
-      "slot": 337,
+      "slot": 338,
       "id": 13421,
       "quantity": 11,
       "name": "Saltpetre"
     },
     {
-      "slot": 338,
+      "slot": 339,
       "id": 20718,
       "quantity": 69,
       "name": "Burnt page"
     },
     {
-      "slot": 339,
+      "slot": 340,
       "id": 5297,
       "quantity": 3,
       "name": "Irit seed"
     },
     {
-      "slot": 340,
+      "slot": 341,
       "id": 5313,
       "quantity": 2,
       "name": "Willow seed"
     },
     {
-      "slot": 341,
+      "slot": 342,
       "id": 377,
       "quantity": 18,
       "name": "Raw lobster"
     },
     {
-      "slot": 342,
+      "slot": 343,
       "id": 5294,
       "quantity": 2,
       "name": "Harralander seed"
     },
     {
-      "slot": 343,
+      "slot": 344,
       "id": 21486,
       "quantity": 2,
       "name": "Teak seed"
     },
     {
-      "slot": 344,
+      "slot": 345,
       "id": 5314,
       "quantity": 3,
       "name": "Maple seed"
     },
     {
-      "slot": 345,
+      "slot": 346,
       "id": 383,
       "quantity": 7,
       "name": "Raw shark"
     },
     {
-      "slot": 346,
+      "slot": 347,
       "id": 31054,
       "quantity": 26,
       "name": "Vale offerings"
     },
     {
-      "slot": 347,
+      "slot": 348,
       "id": 5074,
       "quantity": 1,
       "name": "Bird nest"
     },
     {
-      "slot": 348,
+      "slot": 349,
       "id": 31016,
       "quantity": 1,
       "name": "Sacraments of ent folk"
     },
     {
-      "slot": 349,
+      "slot": 350,
       "id": 29381,
       "quantity": 87,
       "name": "Blessed bone shards"
     },
     {
-      "slot": 350,
+      "slot": 351,
       "id": 42,
       "quantity": 6,
       "name": "Mithril arrowtips"
     },
     {
-      "slot": 351,
+      "slot": 352,
       "id": 41,
       "quantity": 20,
       "name": "Steel arrowtips"
     },
     {
-      "slot": 352,
+      "slot": 353,
       "id": 43,
       "quantity": 3,
       "name": "Adamant arrowtips"
     },
     {
-      "slot": 353,
+      "slot": 354,
       "id": 28134,
       "quantity": 1,
       "name": "Anima-infused bark"
     },
     {
-      "slot": 354,
+      "slot": 355,
       "id": 31045,
       "quantity": 9,
       "name": "Bale of flax"
     },
     {
-      "slot": 355,
+      "slot": 356,
       "id": 1779,
       "quantity": 25,
       "name": "Flax"
     },
     {
-      "slot": 356,
+      "slot": 357,
       "id": 19693,
       "quantity": 1,
       "name": "Clue hunter trousers"
     },
     {
-      "slot": 357,
+      "slot": 358,
       "id": 19689,
       "quantity": 1,
       "name": "Clue hunter garb"
     },
     {
-      "slot": 358,
+      "slot": 359,
       "id": 19697,
       "quantity": 1,
       "name": "Clue hunter cloak"
     },
     {
-      "slot": 359,
+      "slot": 360,
       "id": 19691,
       "quantity": 1,
       "name": "Clue hunter gloves"
     },
     {
-      "slot": 360,
+      "slot": 361,
       "id": 24364,
       "quantity": 2,
       "name": "Scroll box (hard)"
     },
     {
-      "slot": 361,
+      "slot": 362,
       "id": 24363,
       "quantity": 2,
       "name": "Scroll box (medium)"
     },
     {
-      "slot": 362,
+      "slot": 363,
       "id": 24362,
       "quantity": 2,
       "name": "Scroll box (easy)"
     },
     {
-      "slot": 363,
+      "slot": 364,
       "id": 3049,
       "quantity": 6,
       "name": "Grimy toadflax"
     },
     {
-      "slot": 364,
+      "slot": 365,
       "id": 5075,
       "quantity": 2,
       "name": "Bird nest"
     },
     {
-      "slot": 365,
+      "slot": 366,
       "id": 5285,
       "quantity": 1,
       "name": "Orange tree seed"
     },
     {
-      "slot": 366,
+      "slot": 367,
       "id": 5283,
       "quantity": 1,
       "name": "Apple tree seed"
     },
     {
-      "slot": 367,
+      "slot": 368,
       "id": 11858,
       "quantity": 1,
       "name": "Graceful gloves"
     },
     {
-      "slot": 368,
+      "slot": 369,
       "id": 25539,
       "quantity": 1,
       "name": "Celestial ring (uncharged)"
     },
     {
-      "slot": 369,
+      "slot": 370,
       "id": 411,
       "quantity": 8,
       "name": "Oyster pearl"
     },
     {
-      "slot": 370,
+      "slot": 371,
       "id": 1645,
       "quantity": 1,
       "name": "Dragonstone ring"
     },
     {
-      "slot": 371,
+      "slot": 372,
       "id": 1637,
       "quantity": 1,
       "name": "Sapphire ring"
     },
     {
-      "slot": 372,
+      "slot": 373,
       "id": 1681,
       "quantity": 7,
       "name": "Diamond amulet (u)"
     },
     {
-      "slot": 373,
+      "slot": 374,
       "id": 985,
       "quantity": 1,
       "name": "Tooth half of key"
     },
     {
-      "slot": 374,
+      "slot": 375,
       "id": 2952,
       "quantity": 1,
       "name": "Wolfbane"
     },
     {
-      "slot": 375,
+      "slot": 376,
       "id": 11860,
       "quantity": 1,
       "name": "Graceful boots"
     },
     {
-      "slot": 376,
+      "slot": 377,
       "id": 11852,
       "quantity": 1,
       "name": "Graceful cape"
     },
     {
-      "slot": 377,
+      "slot": 378,
       "id": 33089,
       "quantity": 1,
       "name": "Bottomless milk bucket"
     },
     {
-      "slot": 378,
+      "slot": 379,
       "id": 5318,
       "quantity": 3,
       "name": "Potato seed"
     },
     {
-      "slot": 379,
+      "slot": 380,
       "id": 31986,
       "quantity": 1,
       "name": "Captain's log"
     },
     {
-      "slot": 380,
+      "slot": 381,
       "id": 8794,
       "quantity": 1,
       "name": "Saw"
     },
     {
-      "slot": 381,
+      "slot": 382,
       "id": 2015,
       "quantity": 1,
       "name": "Vodka"
     },
     {
-      "slot": 382,
+      "slot": 383,
       "id": 32083,
       "quantity": 45,
       "name": "Sawmill coupon (wood plank)"
     },
     {
-      "slot": 383,
+      "slot": 384,
       "id": 31803,
       "quantity": 1,
       "name": "Spyglass"
     },
     {
-      "slot": 384,
+      "slot": 385,
       "id": 1741,
       "quantity": 2,
       "name": "Leather"
     },
     {
-      "slot": 385,
+      "slot": 386,
       "id": 31807,
       "quantity": 2,
       "name": "Crowbar"
     },
     {
-      "slot": 386,
+      "slot": 387,
       "id": 32085,
       "quantity": 25,
       "name": "Sawmill coupon (oak plank)"
     },
     {
-      "slot": 387,
+      "slot": 388,
       "id": 32090,
       "quantity": 1,
       "name": "Shark paint"
     },
     {
-      "slot": 388,
+      "slot": 389,
       "id": 25131,
       "quantity": 1,
       "name": "Beekeeper's top"
     },
     {
-      "slot": 389,
+      "slot": 390,
       "id": 11850,
       "quantity": 1,
       "name": "Graceful hood"
     },
     {
-      "slot": 390,
+      "slot": 391,
       "id": 25135,
       "quantity": 1,
       "name": "Beekeeper's gloves"
     },
     {
-      "slot": 391,
+      "slot": 392,
       "id": 25551,
       "quantity": 1,
       "name": "Golden prospector jacket"
     },
     {
-      "slot": 392,
+      "slot": 393,
       "id": 25553,
       "quantity": 1,
       "name": "Golden prospector legs"
     },
     {
-      "slot": 393,
+      "slot": 394,
       "id": 25555,
       "quantity": 1,
       "name": "Golden prospector boots"
     },
     {
-      "slot": 394,
+      "slot": 395,
       "id": 1454,
       "quantity": 1,
       "name": "Cosmic talisman"
     },
     {
-      "slot": 395,
+      "slot": 396,
       "id": 1580,
       "quantity": 1,
       "name": "Ice gloves"
     },
     {
-      "slot": 396,
+      "slot": 397,
       "id": 11982,
       "quantity": 1,
       "name": "Ring of wealth (4)"
     },
     {
-      "slot": 397,
+      "slot": 398,
       "id": 75,
       "quantity": 1,
       "name": "Khazard armour"
     },
     {
-      "slot": 398,
+      "slot": 399,
       "id": 74,
       "quantity": 1,
       "name": "Khazard helmet"
     },
     {
-      "slot": 399,
+      "slot": 400,
       "id": 2325,
       "quantity": 4,
       "name": "Redberry pie"
     },
     {
-      "slot": 400,
+      "slot": 401,
       "id": 1627,
       "quantity": 2,
       "name": "Uncut jade"
     },
     {
-      "slot": 401,
+      "slot": 402,
       "id": 688,
       "quantity": 2,
       "name": "Buttons"
     },
     {
-      "slot": 402,
+      "slot": 403,
       "id": 686,
       "quantity": 2,
       "name": "Rusty sword"
     },
     {
-      "slot": 403,
+      "slot": 404,
       "id": 251,
       "quantity": 2,
       "name": "Marrentill"
     },
     {
-      "slot": 404,
+      "slot": 405,
       "id": 4308,
       "quantity": 1,
       "name": "Ham gloves"
     },
     {
-      "slot": 405,
+      "slot": 406,
       "id": 4298,
       "quantity": 2,
       "name": "Ham shirt"
     },
     {
-      "slot": 406,
+      "slot": 407,
       "id": 321,
       "quantity": 1,
       "name": "Raw anchovies"
     },
     {
-      "slot": 407,
+      "slot": 408,
       "id": 253,
       "quantity": 1,
       "name": "Tarromin"
     },
     {
-      "slot": 408,
+      "slot": 409,
       "id": 1625,
       "quantity": 1,
       "name": "Uncut opal"
     },
     {
-      "slot": 409,
+      "slot": 410,
       "id": 5066,
       "quantity": 1,
       "name": "Meeting notes"
     },
     {
-      "slot": 410,
+      "slot": 411,
       "id": 4302,
       "quantity": 1,
       "name": "Ham hood"
     },
     {
-      "slot": 411,
+      "slot": 412,
       "id": 4310,
       "quantity": 1,
       "name": "Ham boots"
-    },
-    {
-      "slot": 412,
-      "id": 4822,
-      "quantity": 12525,
-      "name": "Mithril nails"
     }
   ]
 }

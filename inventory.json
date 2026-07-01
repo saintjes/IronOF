@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T21:57:31.738106900+02:00",
+  "exported_at": "2026-07-01T21:58:07.740538300+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 17,
+  "item_count": 16,
   "items": [
     {
       "slot": 0,
@@ -35,12 +35,6 @@
       "id": 590,
       "quantity": 1,
       "name": "Tinderbox"
-    },
-    {
-      "slot": 5,
-      "id": 5064,
-      "quantity": 1,
-      "name": "Exquisite boots"
     },
     {
       "slot": 6,

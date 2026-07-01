@@ -1,27 +1,27 @@
 {
-  "exported_at": "2026-07-01T22:41:13.469912400+02:00",
+  "exported_at": "2026-07-01T22:42:41.084319800+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 26,
+  "item_count": 25,
   "items": [
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3690,
+      "quantity": 3687,
       "name": "Air rune"
     },
     {
       "slot": 1,
       "id": 554,
-      "quantity": 3782,
+      "quantity": 3781,
       "name": "Fire rune"
     },
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2645,
+      "quantity": 2644,
       "name": "Law rune"
     },
     {
@@ -86,9 +86,9 @@
     },
     {
       "slot": 13,
-      "id": 4302,
+      "id": 11850,
       "quantity": 1,
-      "name": "Ham hood"
+      "name": "Graceful hood"
     },
     {
       "slot": 14,
@@ -119,12 +119,6 @@
       "id": 1511,
       "quantity": 1,
       "name": "Logs"
-    },
-    {
-      "slot": 19,
-      "id": 4298,
-      "quantity": 1,
-      "name": "Ham shirt"
     },
     {
       "slot": 20,

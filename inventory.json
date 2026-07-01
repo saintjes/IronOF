@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T22:17:31.294350300+02:00",
+  "exported_at": "2026-07-01T22:19:43.895045100+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "inventory",
-  "item_count": 26,
+  "item_count": 24,
   "items": [
     {
       "slot": 0,
@@ -14,9 +14,9 @@
     },
     {
       "slot": 1,
-      "id": 22523,
-      "quantity": 5,
-      "name": "Coin pouch"
+      "id": 1511,
+      "quantity": 1,
+      "name": "Logs"
     },
     {
       "slot": 2,
@@ -27,7 +27,7 @@
     {
       "slot": 3,
       "id": 995,
-      "quantity": 60825,
+      "quantity": 60898,
       "name": "Coins"
     },
     {
@@ -38,9 +38,9 @@
     },
     {
       "slot": 5,
-      "id": 1511,
+      "id": 1129,
       "quantity": 1,
-      "name": "Logs"
+      "name": "Leather body"
     },
     {
       "slot": 6,
@@ -50,9 +50,9 @@
     },
     {
       "slot": 7,
-      "id": 1349,
+      "id": 686,
       "quantity": 1,
-      "name": "Iron axe"
+      "name": "Rusty sword"
     },
     {
       "slot": 8,
@@ -80,20 +80,14 @@
     },
     {
       "slot": 12,
-      "id": 361,
+      "id": 688,
       "quantity": 1,
-      "name": "Tuna"
-    },
-    {
-      "slot": 13,
-      "id": 1349,
-      "quantity": 1,
-      "name": "Iron axe"
+      "name": "Buttons"
     },
     {
       "slot": 14,
       "id": 314,
-      "quantity": 2,
+      "quantity": 6,
       "name": "Feather"
     },
     {
@@ -107,12 +101,6 @@
       "id": 2351,
       "quantity": 1,
       "name": "Iron bar"
-    },
-    {
-      "slot": 17,
-      "id": 1351,
-      "quantity": 1,
-      "name": "Bronze axe"
     },
     {
       "slot": 18,
@@ -139,12 +127,6 @@
       "name": "Coal"
     },
     {
-      "slot": 22,
-      "id": 1349,
-      "quantity": 1,
-      "name": "Iron axe"
-    },
-    {
       "slot": 23,
       "id": 1267,
       "quantity": 1,
@@ -155,6 +137,12 @@
       "id": 688,
       "quantity": 1,
       "name": "Buttons"
+    },
+    {
+      "slot": 26,
+      "id": 1734,
+      "quantity": 2,
+      "name": "Thread"
     },
     {
       "slot": 27,

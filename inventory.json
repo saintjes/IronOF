@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-07-01T22:03:47.380737700+02:00",
+  "exported_at": "2026-07-01T22:05:27.614030400+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
@@ -9,13 +9,13 @@
     {
       "slot": 0,
       "id": 556,
-      "quantity": 3699,
+      "quantity": 3693,
       "name": "Air rune"
     },
     {
       "slot": 2,
       "id": 563,
-      "quantity": 2648,
+      "quantity": 2646,
       "name": "Law rune"
     },
     {
@@ -81,7 +81,7 @@
     {
       "slot": 20,
       "id": 557,
-      "quantity": 1334,
+      "quantity": 1332,
       "name": "Earth rune"
     },
     {

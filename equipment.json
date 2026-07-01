@@ -1,10 +1,10 @@
 {
-  "exported_at": "2026-07-01T21:17:05.016964100+02:00",
+  "exported_at": "2026-07-01T22:05:32.394841600+02:00",
   "plugin_version": "0.6.0",
   "session_id": "65c33707-ba43-468a-8ace-ec969341fbd3",
   "reason": "item_container_changed",
   "kind": "equipment",
-  "item_count": 4,
+  "item_count": 9,
   "items": [
     {
       "slot": 0,
@@ -19,6 +19,30 @@
       "name": "Graceful cape"
     },
     {
+      "slot": 2,
+      "id": 1731,
+      "quantity": 1,
+      "name": "Amulet of power"
+    },
+    {
+      "slot": 3,
+      "id": 25641,
+      "quantity": 1,
+      "name": "Barronite mace"
+    },
+    {
+      "slot": 5,
+      "id": 1201,
+      "quantity": 1,
+      "name": "Rune kiteshield"
+    },
+    {
+      "slot": 7,
+      "id": 1093,
+      "quantity": 1,
+      "name": "Rune plateskirt"
+    },
+    {
       "slot": 9,
       "id": 11858,
       "quantity": 1,
@@ -29,6 +53,12 @@
       "id": 11860,
       "quantity": 1,
       "name": "Graceful boots"
+    },
+    {
+      "slot": 12,
+      "id": 11980,
+      "quantity": 1,
+      "name": "Ring of wealth (5)"
     }
   ]
 }
